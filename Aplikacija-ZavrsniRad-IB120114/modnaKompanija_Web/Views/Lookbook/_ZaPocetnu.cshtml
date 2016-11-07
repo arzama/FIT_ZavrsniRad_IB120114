@@ -1,0 +1,30 @@
+﻿@model  modnaKompanija_Web.Controllers.LookbookController.IndexVM
+
+
+@foreach (PEPmodnaKompanija_API.Models.ModelLookBook x in Model.modeli)
+{
+
+
+    foreach (PEPmodnaKompanija_API.Models.Modeli k in Model.svimodeli)
+    {
+        if (k.ModelID == x.ModelID)
+        {
+
+
+<div class="item">
+@if (k.Slika != null)
+{
+    string imageBase64 = Convert.ToBase64String(@k.Slika);
+    string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+
+
+    <a href="/Lookbook/Index">
+        <img src="@imageSrc " alt="Get inspired" class="img-responsive">
+    </a>
+}
+</div>
+    
+}}
+    
+}
+    

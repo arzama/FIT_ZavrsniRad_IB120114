@@ -1,0 +1,42 @@
+﻿
+<div id="div1">
+@if (Korpa.GetCount() > 0)
+{
+    <div class="navbar-collapse collapse right" id="basket-overview">
+        <a href="~/Korpa/Index" class="btn btn-primary navbar-btn"><i class="fa fa-shopping-cart"></i><span class="hidden-sm">@Korpa.GetCount() proizvoda</span></a>
+    </div>
+
+  
+}
+
+else
+{
+
+    <div class="navbar-collapse collapse right" id="basket-overview">
+        <a href="#" class="btn btn-primary navbar-btn"><i class="fa fa-shopping-cart"></i><span class="hidden-sm">@Korpa.GetCount() proizvoda</span></a>
+    </div>
+
+    }
+
+
+@if (Wishlist.GetCount() > 0 )
+{
+
+    <div class="navbar-collapse collapse right">
+        <a href="~/Wishlist/Index" class="btn btn-primary navbar-btn"><i class="fa fa-heart"></i><span class="hidden-sm">@Wishlist.GetCount() proizvoda</span></a>
+    </div>
+}
+
+else
+{
+
+
+    <div class="navbar-collapse collapse right">
+        <a href="#" class="btn btn-primary navbar-btn"><i class="fa fa-heart"></i><span class="hidden-sm">@Wishlist.GetCount() proizvoda</span></a>
+    </div>
+}
+
+
+</div>
+
+

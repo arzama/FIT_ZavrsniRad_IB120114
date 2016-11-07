@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7993AAF5-2F36-46D5-A209-0256B1593D32}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PEPmodnaKompanija_UI</RootNamespace>
+    <AssemblyName>PEPmodnaKompanija_UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\AddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\AddForm.Designer.cs">
+      <DependentUpon>AddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\AddLookBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\AddLookBook.Designer.cs">
+      <DependentUpon>AddLookBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\AddRevija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\AddRevija.Designer.cs">
+      <DependentUpon>AddRevija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\AddStavkeModela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\AddStavkeModela.Designer.cs">
+      <DependentUpon>AddStavkeModela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\frm_Statistika_rpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\frm_Statistika_rpt.Designer.cs">
+      <DependentUpon>frm_Statistika_rpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\MainDizajneri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\MainDizajneri.Designer.cs">
+      <DependentUpon>MainDizajneri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\PregledKreacija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\PregledKreacija.Designer.cs">
+      <DependentUpon>PregledKreacija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\PregledLooka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\PregledLooka.Designer.cs">
+      <DependentUpon>PregledLooka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\PregledLookBooka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\PregledLookBooka.Designer.cs">
+      <DependentUpon>PregledLookBooka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\SveRevije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\SveRevije.Designer.cs">
+      <DependentUpon>SveRevije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModulDizajner\SviModeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulDizajner\SviModeli.Designer.cs">
+      <DependentUpon>SviModeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Narudzbe\AktivneNarudzbe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Narudzbe\AktivneNarudzbe.Designer.cs">
+      <DependentUpon>AktivneNarudzbe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Narudzbe\Detalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Narudzbe\Detalji.Designer.cs">
+      <DependentUpon>Detalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Narudzbe\frm_Racun_rpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Narudzbe\frm_Racun_rpt.Designer.cs">
+      <DependentUpon>frm_Racun_rpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Narudzbe\HistorijaNrudzbi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Narudzbe\HistorijaNrudzbi.Designer.cs">
+      <DependentUpon>HistorijaNrudzbi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PEPBazaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PEPBazaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PEPBazaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PEPBazaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Poruke.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Products\AddKatalog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\AddKatalog.Designer.cs">
+      <DependentUpon>AddKatalog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\frm_KolicinaProdanih_rpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\frm_KolicinaProdanih_rpt.Designer.cs">
+      <DependentUpon>frm_KolicinaProdanih_rpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\frm_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\frm_Report.Designer.cs">
+      <DependentUpon>frm_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\frm_SlikaProizvoda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\frm_SlikaProizvoda.Designer.cs">
+      <DependentUpon>frm_SlikaProizvoda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\PregledKataloga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\PregledKataloga.Designer.cs">
+      <DependentUpon>PregledKataloga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\PretragaProizvoda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\PretragaProizvoda.Designer.cs">
+      <DependentUpon>PretragaProizvoda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\Skladistenje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\Skladistenje.Designer.cs">
+      <DependentUpon>Skladistenje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\StatistikaFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\StatistikaFrm.Designer.cs">
+      <DependentUpon>StatistikaFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Products\AddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\AddForm.Designer.cs">
+      <DependentUpon>AddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Users\AddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\AddForm.Designer.cs">
+      <DependentUpon>AddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\KorisniciForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\KorisniciForm.Designer.cs">
+      <DependentUpon>KorisniciForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\UIHelper.cs" />
+    <Compile Include="Util\WebAPIHelper.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\AddForm.resx">
+      <DependentUpon>AddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\AddLookBook.resx">
+      <DependentUpon>AddLookBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\AddRevija.resx">
+      <DependentUpon>AddRevija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\AddStavkeModela.resx">
+      <DependentUpon>AddStavkeModela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\frm_Statistika_rpt.resx">
+      <DependentUpon>frm_Statistika_rpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\MainDizajneri.resx">
+      <DependentUpon>MainDizajneri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\PregledKreacija.resx">
+      <DependentUpon>PregledKreacija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\PregledLooka.resx">
+      <DependentUpon>PregledLooka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\PregledLookBooka.resx">
+      <DependentUpon>PregledLookBooka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\rpt_Statistika.rdlc" />
+    <EmbeddedResource Include="ModulDizajner\SveRevije.resx">
+      <DependentUpon>SveRevije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModulDizajner\SviModeli.resx">
+      <DependentUpon>SviModeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Narudzbe\AktivneNarudzbe.resx">
+      <DependentUpon>AktivneNarudzbe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Narudzbe\Detalji.resx">
+      <DependentUpon>Detalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Narudzbe\frm_Racun_rpt.resx">
+      <DependentUpon>frm_Racun_rpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Narudzbe\HistorijaNrudzbi.resx">
+      <DependentUpon>HistorijaNrudzbi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Narudzbe\rpt_Racun.rdlc" />
+    <EmbeddedResource Include="Poruke.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Poruke.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\AddForm.resx">
+      <DependentUpon>AddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\AddKatalog.resx">
+      <DependentUpon>AddKatalog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\frm_KolicinaProdanih_rpt.resx">
+      <DependentUpon>frm_KolicinaProdanih_rpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\frm_Report.resx">
+      <DependentUpon>frm_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\frm_SlikaProizvoda.resx">
+      <DependentUpon>frm_SlikaProizvoda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\PregledKataloga.resx">
+      <DependentUpon>PregledKataloga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\PretragaProizvoda.resx">
+      <DependentUpon>PretragaProizvoda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\rpt_KolicinaProdanihByVrsta.rdlc" />
+    <EmbeddedResource Include="Products\rpt_ZaradaByMjesec.rdlc" />
+    <EmbeddedResource Include="Products\Skladistenje.resx">
+      <DependentUpon>Skladistenje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\StatistikaFrm.resx">
+      <DependentUpon>StatistikaFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\AddForm.resx">
+      <DependentUpon>AddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\KorisniciForm.resx">
+      <DependentUpon>KorisniciForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="PEPBazaDataSet.xsc">
+      <DependentUpon>PEPBazaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PEPBazaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PEPBazaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PEPBazaDataSet.xss">
+      <DependentUpon>PEPBazaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PEPBazaDataSet1.xsc">
+      <DependentUpon>PEPBazaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PEPBazaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PEPBazaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PEPBazaDataSet1.xss">
+      <DependentUpon>PEPBazaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PEPmodnaKompanija_API\PEPmodnaKompanija_API.csproj">
+      <Project>{813fd729-8643-46b6-870a-d6dda994feac}</Project>
+      <Name>PEPmodnaKompanija_API</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnNoviKorisnik.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

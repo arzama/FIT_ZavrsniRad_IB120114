@@ -1,0 +1,735 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PEPBazaModel1StoreContainer" CdmEntityContainer="PEPBazaEntities1">
+    <EntitySetMapping Name="Izlazi">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Izlazi">
+        <MappingFragment StoreEntitySet="Izlazi">
+          <ScalarProperty Name="IzlazID" ColumnName="IzlazID" />
+          <ScalarProperty Name="BrojRacuna" ColumnName="BrojRacuna" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="Zakljucen" ColumnName="Zakljucen" />
+          <ScalarProperty Name="NarudzbaID" ColumnName="NarudzbaID" />
+          <ScalarProperty Name="SkladisteID" ColumnName="SkladisteID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IzlazStavke">
+      <EntityTypeMapping TypeName="PEPBazaModel1.IzlazStavke">
+        <MappingFragment StoreEntitySet="IzlazStavke">
+          <ScalarProperty Name="IzlazStavkaID" ColumnName="IzlazStavkaID" />
+          <ScalarProperty Name="IzlazID" ColumnName="IzlazID" />
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Kolicina" ColumnName="Kolicina" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Korisnici">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Korisnici">
+        <MappingFragment StoreEntitySet="Korisnici">
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="KorisnickoIme" ColumnName="KorisnickoIme" />
+          <ScalarProperty Name="LozinkaHash" ColumnName="LozinkaHash" />
+          <ScalarProperty Name="LozinkaSalt" ColumnName="LozinkaSalt" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="UlogaID" ColumnName="UlogaID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kupci">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Kupci">
+        <MappingFragment StoreEntitySet="Kupci">
+          <ScalarProperty Name="KupacID" ColumnName="KupacID" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="DatumRegistracije" ColumnName="DatumRegistracije" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="KorisnickoIme" ColumnName="KorisnickoIme" />
+          <ScalarProperty Name="LozinkaHash" ColumnName="LozinkaHash" />
+          <ScalarProperty Name="LozinkaSalt" ColumnName="LozinkaSalt" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LookBook">
+      <EntityTypeMapping TypeName="PEPBazaModel1.LookBook">
+        <MappingFragment StoreEntitySet="LookBook">
+          <ScalarProperty Name="LookBookID" ColumnName="LookBookID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Modeli">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Modeli">
+        <MappingFragment StoreEntitySet="Modeli">
+          <ScalarProperty Name="ModelID" ColumnName="ModelID" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="RevijaID" ColumnName="RevijaID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NarudzbaStavke">
+      <EntityTypeMapping TypeName="PEPBazaModel1.NarudzbaStavke">
+        <MappingFragment StoreEntitySet="NarudzbaStavke">
+          <ScalarProperty Name="NarudzbaStavkaID" ColumnName="NarudzbaStavkaID" />
+          <ScalarProperty Name="NarudzbaID" ColumnName="NarudzbaID" />
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Kolicina" ColumnName="Kolicina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Narudzbe">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Narudzbe">
+        <MappingFragment StoreEntitySet="Narudzbe">
+          <ScalarProperty Name="NacinPlacanjaID" ColumnName="NacinPlacanjaID" />
+          <ScalarProperty Name="NacinDostaveID" ColumnName="NacinDostaveID" />
+          <ScalarProperty Name="AdresaDostaveID" ColumnName="AdresaDostaveID" />
+          <ScalarProperty Name="NarudzbaID" ColumnName="NarudzbaID" />
+          <ScalarProperty Name="BrojNarudzbe" ColumnName="BrojNarudzbe" />
+          <ScalarProperty Name="KupacID" ColumnName="KupacID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Otkazano" ColumnName="Otkazano" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ocjene">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Ocjene">
+        <MappingFragment StoreEntitySet="Ocjene">
+          <ScalarProperty Name="OcjenaID" ColumnName="OcjenaID" />
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="KupacID" ColumnName="KupacID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Ocjena" ColumnName="Ocjena" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Proizvodi">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Proizvodi">
+        <MappingFragment StoreEntitySet="Proizvodi">
+          <ScalarProperty Name="VelicinaID" ColumnName="VelicinaID" />
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Sifra" ColumnName="Sifra" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="VrstaID" ColumnName="VrstaID" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="SezonaID" ColumnName="SezonaID" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Revije">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Revije">
+        <MappingFragment StoreEntitySet="Revije">
+          <ScalarProperty Name="RevijaID" ColumnName="RevijaID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Napomena" ColumnName="Napomena" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sezone">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Sezone">
+        <MappingFragment StoreEntitySet="Sezone">
+          <ScalarProperty Name="SezonaID" ColumnName="SezonaID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Skladista">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Skladista">
+        <MappingFragment StoreEntitySet="Skladista">
+          <ScalarProperty Name="SkladisteID" ColumnName="SkladisteID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Adresa" ColumnName="Adresa" />
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="PEPBazaModel1.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Uloge">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Uloge">
+        <MappingFragment StoreEntitySet="Uloge">
+          <ScalarProperty Name="UlogaID" ColumnName="UlogaID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VrsteProizvoda">
+      <EntityTypeMapping TypeName="PEPBazaModel1.VrsteProizvoda">
+        <MappingFragment StoreEntitySet="VrsteProizvoda">
+          <ScalarProperty Name="VrstaID" ColumnName="VrstaID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="PEPBazaModel1.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="PEPBazaModel1.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="PEPBazaModel1.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="PEPBazaModel1.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="PEPBazaModel1.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="PEPBazaModel1.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="PEPBazaModel1.Store.sp_upgraddiagrams" />
+    <FunctionImportMapping FunctionImportName="usp_AllRevije" FunctionName="PEPBazaModel1.Store.usp_AllRevije">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_AllRevije_Result">
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Napomena" ColumnName="Napomena" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_Korisnici_Insert" FunctionName="PEPBazaModel1.Store.usp_Korisnici_Insert" />
+    <FunctionImportMapping FunctionImportName="usp_Korisnici_SelectByImePrezime" FunctionName="PEPBazaModel1.Store.usp_Korisnici_SelectByImePrezime" />
+    <FunctionImportMapping FunctionImportName="usp_LastModelID" FunctionName="PEPBazaModel1.Store.usp_LastModelID" />
+    <FunctionImportMapping FunctionImportName="usp_Modeli" FunctionName="PEPBazaModel1.Store.usp_Modeli" />
+    <FunctionImportMapping FunctionImportName="usp_Proizvodi_Insert" FunctionName="PEPBazaModel1.Store.usp_Proizvodi_Insert" />
+    <FunctionImportMapping FunctionImportName="usp_ProizvodiByModel" FunctionName="PEPBazaModel1.Store.usp_ProizvodiByModel">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_ProizvodiByModel_Result">
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_RevijeByKorisnik" FunctionName="PEPBazaModel1.Store.usp_RevijeByKorisnik">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.RevijeByKorisnik">
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Napomena" ColumnName="Napomena" />
+          <ScalarProperty Name="RevijaID" ColumnName="RevijaID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_RevijeByKorisnikLook" FunctionName="PEPBazaModel1.Store.usp_RevijeByKorisnikLook">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_RevijeByKorisnikLook_Result">
+          <ScalarProperty Name="RevijaID" ColumnName="RevijaID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Napomena" ColumnName="Napomena" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_ModelLookBook_Insert" FunctionName="PEPBazaModel1.Store.usp_ModelLookBook_Insert" />
+    <FunctionImportMapping FunctionImportName="usp_LookBook_Insert" FunctionName="PEPBazaModel1.Store.usp_LookBook_Insert" />
+    <EntitySetMapping Name="ModelLookBook">
+      <EntityTypeMapping TypeName="PEPBazaModel1.ModelLookBook">
+        <MappingFragment StoreEntitySet="ModelLookBook">
+          <ScalarProperty Name="LookBookID" ColumnName="LookBookID" />
+          <ScalarProperty Name="ModelID" ColumnName="ModelID" />
+          <ScalarProperty Name="ModelLookBookID" ColumnName="ModelLookBookID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_ModeliByLookBook" FunctionName="PEPBazaModel1.Store.usp_ModeliByLookBook">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_ModeliByLookBook_Result">
+          <ScalarProperty Name="ModelID" ColumnName="ModelID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_PretragaProizvoda_" FunctionName="PEPBazaModel1.Store.usp_PretragaProizvoda_">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_PretragaProizvoda__Result">
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Sifra" ColumnName="Sifra" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="Vrsta" ColumnName="Vrsta" />
+          <ScalarProperty Name="Sezona" ColumnName="Sezona" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="DizajnerP" ColumnName="DizajnerP" />
+          <ScalarProperty Name="Velicina" ColumnName="Velicina" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="Katalog">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Katalog">
+        <MappingFragment StoreEntitySet="Katalog">
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="KatalogID" ColumnName="KatalogID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KatalogProizvod">
+      <EntityTypeMapping TypeName="PEPBazaModel1.KatalogProizvod">
+        <MappingFragment StoreEntitySet="KatalogProizvod">
+          <ScalarProperty Name="KatalogID" ColumnName="KatalogID" />
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="KatalogProizvodID" ColumnName="KatalogProizvodID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_Katalog_Insert" FunctionName="PEPBazaModel1.Store.usp_Katalog_Insert" />
+    <FunctionImportMapping FunctionImportName="uspProizvodiBySezonaRevija" FunctionName="PEPBazaModel1.Store.uspProizvodiBySezonaRevija">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.uspProizvodiBySezonaRevija_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Sifra" ColumnName="Sifra" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="Vrsta" ColumnName="Vrsta" />
+          <ScalarProperty Name="Sezona" ColumnName="Sezona" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_KatalogProizvod_Insert" FunctionName="PEPBazaModel1.Store.usp_KatalogProizvod_Insert" />
+    <FunctionImportMapping FunctionImportName="usp_KatalogByVrsta" FunctionName="PEPBazaModel1.Store.usp_KatalogByVrsta">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_KatalogByVrsta_Result">
+          <ScalarProperty Name="KatalogID" ColumnName="KatalogID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="NazivK" ColumnName="NazivK" />
+          <ScalarProperty Name="DizajnerK" ColumnName="DizajnerK" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_ProizvodiByKatalog" FunctionName="PEPBazaModel1.Store.usp_ProizvodiByKatalog">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_ProizvodiByKatalog_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Sifra" ColumnName="Sifra" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="Vrsta" ColumnName="Vrsta" />
+          <ScalarProperty Name="Sezona" ColumnName="Sezona" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_RevijeByDatum" FunctionName="PEPBazaModel1.Store.usp_RevijeByDatum">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_RevijeByDatum_Result">
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Napomena" ColumnName="Napomena" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="DizajnerR" ColumnName="DizajnerR" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_AllModeli" FunctionName="PEPBazaModel1.Store.usp_AllModeli">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_AllModeli_Result">
+          <ScalarProperty Name="ModelID" ColumnName="ModelID" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Revija" ColumnName="Revija" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_Proizvodi_SelectById" FunctionName="PEPBazaModel1.Store.usp_Proizvodi_SelectById">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_Proizvodi_SelectById_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Sifra" ColumnName="Sifra" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="VrstaID" ColumnName="VrstaID" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="SezonaID" ColumnName="SezonaID" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="VrstaProizvoda" ColumnName="VrstaProizvoda" />
+          <ScalarProperty Name="Sezona" ColumnName="Sezona" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="ProsjecnaOcjena" ColumnName="ProsjecnaOcjena" />
+          <ScalarProperty Name="VelicinaID" ColumnName="VelicinaID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_ModeliByLookbookPhone" FunctionName="PEPBazaModel1.Store.usp_ModeliByLookbookPhone">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_ModeliByLookbookPhone_Result">
+          <ScalarProperty Name="ModelID" ColumnName="ModelID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_Modeli_SelectByIdPhone" FunctionName="PEPBazaModel1.Store.usp_Modeli_SelectByIdPhone">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_Modeli_SelectByIdPhone_Result">
+          <ScalarProperty Name="ModelID" ColumnName="ModelID" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="RevijaID" ColumnName="RevijaID" />
+          <ScalarProperty Name="Revija" ColumnName="Revija" />
+          <ScalarProperty Name="Lookbook" ColumnName="Lookbook" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="Dizajner" ColumnName="Dizajner" />
+          <ScalarProperty Name="Prosjek" ColumnName="Prosjek" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_ProizvodiByModelPhone" FunctionName="PEPBazaModel1.Store.usp_ProizvodiByModelPhone">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_ProizvodiByModelPhone_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="Sifra" ColumnName="Sifra" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_NarudzbaStavke_Insert" FunctionName="PEPBazaModel1.Store.usp_NarudzbaStavke_Insert" />
+    <FunctionImportMapping FunctionImportName="usp_Narudzbe_Insert" FunctionName="PEPBazaModel1.Store.usp_Narudzbe_Insert" />
+    <FunctionImportMapping FunctionImportName="usp_FavouriteProizvod_Insert" FunctionName="PEPBazaModel1.Store.usp_FavouriteProizvod_Insert" />
+    <EntitySetMapping Name="FavouiriteProizvod">
+      <EntityTypeMapping TypeName="PEPBazaModel1.FavouiriteProizvod">
+        <MappingFragment StoreEntitySet="FavouiriteProizvod">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="FavouriteID" ColumnName="FavouriteID" />
+          <ScalarProperty Name="FavouriteProizvodID" ColumnName="FavouriteProizvodID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Favourite">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Favourite">
+        <MappingFragment StoreEntitySet="Favourite">
+          <ScalarProperty Name="KupacID" ColumnName="KupacID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="FavouriteID" ColumnName="FavouriteID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_FavouriteInsert" FunctionName="PEPBazaModel1.Store.usp_FavouriteInsert" />
+    <FunctionImportMapping FunctionImportName="usp_Narudzbe_SelectAktivne" FunctionName="PEPBazaModel1.Store.usp_Narudzbe_SelectAktivne">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_Narudzbe_SelectAktivne_Result">
+          <ScalarProperty Name="NarudzbaID" ColumnName="NarudzbaID" />
+          <ScalarProperty Name="BrojNarudzbe" ColumnName="BrojNarudzbe" />
+          <ScalarProperty Name="KupacID" ColumnName="KupacID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Kupac" ColumnName="Kupac" />
+          <ScalarProperty Name="Iznos" ColumnName="Iznos" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_NarudzbeStavke_SelectByNarudzbaID" FunctionName="PEPBazaModel1.Store.usp_NarudzbeStavke_SelectByNarudzbaID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_NarudzbeStavke_SelectByNarudzbaID_Result">
+          <ScalarProperty Name="NarudzbaStavkaID" ColumnName="NarudzbaStavkaID" />
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Sifra" ColumnName="Sifra" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="Kolicina" ColumnName="Kolicina" />
+          <ScalarProperty Name="Iznos" ColumnName="Iznos" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="SkladisteProizvodi">
+      <EntityTypeMapping TypeName="PEPBazaModel1.SkladisteProizvodi">
+        <MappingFragment StoreEntitySet="SkladisteProizvodi">
+          <ScalarProperty Name="Kolicina" ColumnName="Kolicina" />
+          <ScalarProperty Name="SkladisteID" ColumnName="SkladisteID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="SkladisteProizvodiID" ColumnName="SkladisteProizvodiID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_Select_ProizvodiBySkladiste" FunctionName="PEPBazaModel1.Store.usp_Select_ProizvodiBySkladiste">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_Select_ProizvodiBySkladiste_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Sifra" ColumnName="Sifra" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="Vrsta" ColumnName="Vrsta" />
+          <ScalarProperty Name="Dizajner" ColumnName="Dizajner" />
+          <ScalarProperty Name="Kolicina" ColumnName="Kolicina" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_Select_StavkeSkladista" FunctionName="PEPBazaModel1.Store.usp_Select_StavkeSkladista">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_Select_StavkeSkladista_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="Sifra" ColumnName="Sifra" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_Izlazi_InsertByNarudzbaID" FunctionName="PEPBazaModel1.Store.usp_Izlazi_InsertByNarudzbaID" />
+    <FunctionImportMapping FunctionImportName="usp_Select_Narudzbe" FunctionName="PEPBazaModel1.Store.usp_Select_Narudzbe">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_Select_Narudzbe_Result">
+          <ScalarProperty Name="NarudzbaID" ColumnName="NarudzbaID" />
+          <ScalarProperty Name="BrojNarudzbe" ColumnName="BrojNarudzbe" />
+          <ScalarProperty Name="KupacID" ColumnName="KupacID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Iznos" ColumnName="Iznos" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_Select_NajprodavanijiProizvodi" FunctionName="PEPBazaModel1.Store.usp_Select_NajprodavanijiProizvodi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_Select_NajprodavanijiProizvodi_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Broj2" ColumnName="Broj2" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_Ocjena_Proizvoda" FunctionName="PEPBazaModel1.Store.usp_Ocjena_Proizvoda" />
+    <FunctionImportMapping FunctionImportName="usp_ProsjecnaOcjena" FunctionName="PEPBazaModel1.Store.usp_ProsjecnaOcjena" />
+    <FunctionImportMapping FunctionImportName="usp_OcjenaDizajnera_Insert" FunctionName="PEPBazaModel1.Store.usp_OcjenaDizajnera_Insert" />
+    <EntitySetMapping Name="OcjeneDizajnera">
+      <EntityTypeMapping TypeName="PEPBazaModel1.OcjeneDizajnera">
+        <MappingFragment StoreEntitySet="OcjeneDizajnera">
+          <ScalarProperty Name="Ocjena" ColumnName="Ocjena" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="KupacID" ColumnName="KupacID" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="OcjenaDizajneraID" ColumnName="OcjenaDizajneraID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_najboljeOcijenjeniDizajneri" FunctionName="PEPBazaModel1.Store.usp_najboljeOcijenjeniDizajneri">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_najboljeOcijenjeniDizajneri_Result">
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="Dizajner" ColumnName="Dizajner" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Ocjena" ColumnName="Ocjena" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_najboljeOcijenjeniProizvodi" FunctionName="PEPBazaModel1.Store.usp_najboljeOcijenjeniProizvodi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_najboljeOcijenjeniProizvodi_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="Ocjena" ColumnName="Ocjena" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_NajprodavanijiByMjesec" FunctionName="PEPBazaModel1.Store.usp_NajprodavanijiByMjesec">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_NajprodavanijiByMjesec_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="Broj2" ColumnName="Broj2" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_SelectNarudzbeDesk" FunctionName="PEPBazaModel1.Store.usp_SelectNarudzbeDesk">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_SelectNarudzbeDesk_Result">
+          <ScalarProperty Name="NarudzbaID" ColumnName="NarudzbaID" />
+          <ScalarProperty Name="BrojNarudzbe" ColumnName="BrojNarudzbe" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Kupac" ColumnName="Kupac" />
+          <ScalarProperty Name="Iznos" ColumnName="Iznos" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="Velicine">
+      <EntityTypeMapping TypeName="PEPBazaModel1.Velicine">
+        <MappingFragment StoreEntitySet="Velicine">
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="VelicinaID" ColumnName="VelicinaID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdresaDostave">
+      <EntityTypeMapping TypeName="PEPBazaModel1.AdresaDostave">
+        <MappingFragment StoreEntitySet="AdresaDostave">
+          <ScalarProperty Name="Drzava" ColumnName="Drzava" />
+          <ScalarProperty Name="Ulica" ColumnName="Ulica" />
+          <ScalarProperty Name="PostanskiBroj" ColumnName="PostanskiBroj" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="AdresaDostaveID" ColumnName="AdresaDostaveID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NacinDostave">
+      <EntityTypeMapping TypeName="PEPBazaModel1.NacinDostave">
+        <MappingFragment StoreEntitySet="NacinDostave">
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="NacinDostaveID" ColumnName="NacinDostaveID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NacinPlacanja">
+      <EntityTypeMapping TypeName="PEPBazaModel1.NacinPlacanja">
+        <MappingFragment StoreEntitySet="NacinPlacanja">
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="NacinPlacanjaID" ColumnName="NacinPlacanjaID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ModeliProizvodi">
+      <EntityTypeMapping TypeName="PEPBazaModel1.ModeliProizvodi">
+        <MappingFragment StoreEntitySet="ModeliProizvodi">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="ModelID" ColumnName="ModelID" />
+          <ScalarProperty Name="ModeliProizvodiID" ColumnName="ModeliProizvodiID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_Select_NajboljeOcijenjeniDizajner" FunctionName="PEPBazaModel1.Store.usp_Select_NajboljeOcijenjeniDizajner">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_Select_NajboljeOcijenjeniDizajner_Result">
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="Broj" ColumnName="Broj" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_UserBased_Preporuka" FunctionName="PEPBazaModel1.Store.usp_UserBased_Preporuka">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_UserBased_Preporuka_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="kolicina" ColumnName="kolicina" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_UserBased2" FunctionName="PEPBazaModel1.Store.usp_UserBased2">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_UserBased2_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="kolicina" ColumnName="kolicina" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_ModeliByDizajnerID" FunctionName="PEPBazaModel1.Store.usp_ModeliByDizajnerID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_ModeliByDizajnerID_Result">
+          <ScalarProperty Name="ModelID" ColumnName="ModelID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_StatistikaDizajner" FunctionName="PEPBazaModel1.Store.usp_StatistikaDizajner">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_StatistikaDizajner_Result">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="Broj" ColumnName="Broj" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_DostupneVelicine" FunctionName="PEPBazaModel1.Store.usp_DostupneVelicine" />
+    <FunctionImportMapping FunctionImportName="usp_ProizvodUFavourite" FunctionName="PEPBazaModel1.Store.usp_ProizvodUFavourite" />
+    <FunctionImportMapping FunctionImportName="usp_ProizvodiIzFavourite" FunctionName="PEPBazaModel1.Store.usp_ProizvodiIzFavourite" />
+    <FunctionImportMapping FunctionImportName="usp_KatalogSelect" FunctionName="PEPBazaModel1.Store.usp_KatalogSelect">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_KatalogSelect_Result">
+          <ScalarProperty Name="ProizvodID" ColumnName="ProizvodID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Sifra" ColumnName="Sifra" />
+          <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+          <ScalarProperty Name="VrstaID" ColumnName="VrstaID" />
+          <ScalarProperty Name="Slika" ColumnName="Slika" />
+          <ScalarProperty Name="SlikaThumb" ColumnName="SlikaThumb" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="SezonaID" ColumnName="SezonaID" />
+          <ScalarProperty Name="KorisnikID" ColumnName="KorisnikID" />
+          <ScalarProperty Name="VelicinaID" ColumnName="VelicinaID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="NazivKataloga" ColumnName="NazivKataloga" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_StatistikaZarada" FunctionName="PEPBazaModel1.Store.usp_StatistikaZarada">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_StatistikaZarada_Result">
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="Zarada" ColumnName="Zarada" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_KolicinaProdanihByVrsta" FunctionName="PEPBazaModel1.Store.usp_KolicinaProdanihByVrsta">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PEPBazaModel1.usp_KolicinaProdanihByVrsta_Result">
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Kolicina" ColumnName="Kolicina" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,1416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PEPBazaModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Izlazi">
+    <Key>
+      <PropertyRef Name="IzlazID" />
+    </Key>
+    <Property Name="IzlazID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BrojRacuna" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Datum" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="KorisnikID" Type="Int32" Nullable="false" />
+    <Property Name="Zakljucen" Type="Boolean" Nullable="false" />
+    <Property Name="NarudzbaID" Type="Int32" />
+    <Property Name="SkladisteID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Korisnici" Relationship="Self.FK__Izlazi__Korisnik__2A4B4B5E" FromRole="Izlazi" ToRole="Korisnici" />
+    <NavigationProperty Name="Narudzbe" Relationship="Self.FK__Izlazi__Narudzba__2B3F6F97" FromRole="Izlazi" ToRole="Narudzbe" />
+    <NavigationProperty Name="Skladista" Relationship="Self.FK__Izlazi__Skladist__2C3393D0" FromRole="Izlazi" ToRole="Skladista" />
+    <NavigationProperty Name="IzlazStavke" Relationship="Self.FK__IzlazStav__Izlaz__2F10007B" FromRole="Izlazi" ToRole="IzlazStavke" />
+  </EntityType>
+  <EntityType Name="IzlazStavke">
+    <Key>
+      <PropertyRef Name="IzlazStavkaID" />
+    </Key>
+    <Property Name="IzlazStavkaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IzlazID" Type="Int32" Nullable="false" />
+    <Property Name="ProizvodID" Type="Int32" Nullable="false" />
+    <Property Name="Kolicina" Type="Int32" Nullable="false" />
+    <Property Name="Cijena" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <NavigationProperty Name="Izlazi" Relationship="Self.FK__IzlazStav__Izlaz__2F10007B" FromRole="IzlazStavke" ToRole="Izlazi" />
+  </EntityType>
+  <EntityType Name="Korisnici">
+    <Key>
+      <PropertyRef Name="KorisnikID" />
+    </Key>
+    <Property Name="KorisnikID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ime" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Prezime" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telefon" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="KorisnickoIme" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LozinkaHash" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LozinkaSalt" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <Property Name="UlogaID" Type="Int32" />
+    <NavigationProperty Name="Izlazi" Relationship="Self.FK__Izlazi__Korisnik__2A4B4B5E" FromRole="Korisnici" ToRole="Izlazi" />
+    <NavigationProperty Name="Uloge" Relationship="Self.FK__Korisnici__Uloga__2739D489" FromRole="Korisnici" ToRole="Uloge" />
+    <NavigationProperty Name="LookBook" Relationship="Self.FK__LookBook__Korisn__681373AD" FromRole="Korisnici" ToRole="LookBook" />
+    <NavigationProperty Name="Proizvodi" Relationship="Self.FK__Proizvodi__Koris__01142BA1" FromRole="Korisnici" ToRole="Proizvodi" />
+    <NavigationProperty Name="Revije" Relationship="Self.FK__Revije__Korisnik__03F0984C" FromRole="Korisnici" ToRole="Revije" />
+    <NavigationProperty Name="Katalog" Relationship="PEPBazaModel1.FK__Katalog__Korisni__44952D46" FromRole="Korisnici" ToRole="Katalog" />
+    <NavigationProperty Name="SkladisteProizvodi" Relationship="PEPBazaModel1.FK__Skladiste__Koris__5A4F643B" FromRole="Korisnici" ToRole="SkladisteProizvodi" />
+    <NavigationProperty Name="OcjeneDizajnera" Relationship="PEPBazaModel1.FK__OcjeneDiz__Koris__278EDA44" FromRole="Korisnici" ToRole="OcjeneDizajnera" />
+  </EntityType>
+  <EntityType Name="Kupci">
+    <Key>
+      <PropertyRef Name="KupacID" />
+    </Key>
+    <Property Name="KupacID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ime" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Prezime" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DatumRegistracije" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="KorisnickoIme" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LozinkaHash" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LozinkaSalt" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Narudzbe" Relationship="Self.FK__Narudzbe__KupacI__239E4DCF" FromRole="Kupci" ToRole="Narudzbe" />
+    <NavigationProperty Name="Ocjene" Relationship="Self.FK__Ocjene__KupacID__32E0915F" FromRole="Kupci" ToRole="Ocjene" />
+    <NavigationProperty Name="Favourite" Relationship="PEPBazaModel1.FK__Favourite__Kupac__3CBF0154" FromRole="Kupci" ToRole="Favourite" />
+    <NavigationProperty Name="OcjeneDizajnera" Relationship="PEPBazaModel1.FK__OcjeneDiz__Kupac__2882FE7D" FromRole="Kupci" ToRole="OcjeneDizajnera" />
+  </EntityType>
+  <EntityType Name="LookBook">
+    <Key>
+      <PropertyRef Name="LookBookID" />
+    </Key>
+    <Property Name="LookBookID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Datum" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="KorisnikID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Korisnici" Relationship="Self.FK__LookBook__Korisn__681373AD" FromRole="LookBook" ToRole="Korisnici" />
+    <NavigationProperty Name="ModelLookBook" Relationship="PEPBazaModel1.FK__ModelLook__LookB__1F63A897" FromRole="LookBook" ToRole="ModelLookBook" />
+  </EntityType>
+  <EntityType Name="Modeli">
+    <Key>
+      <PropertyRef Name="ModelID" />
+    </Key>
+    <Property Name="ModelID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Slika" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="SlikaThumb" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Opis" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RevijaID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Revije" Relationship="Self.FK__Modeli__RevijaID__6442E2C9" FromRole="Modeli" ToRole="Revije" />
+    <NavigationProperty Name="ModelLookBook" Relationship="PEPBazaModel1.FK__ModelLook__Model__1E6F845E" FromRole="Modeli" ToRole="ModelLookBook" />
+    <NavigationProperty Name="ModeliProizvodi" Relationship="PEPBazaModel1.FK__ModeliPro__Model__3F3159AB" FromRole="Modeli" ToRole="ModeliProizvodi" />
+  </EntityType>
+  <EntityType Name="NarudzbaStavke">
+    <Key>
+      <PropertyRef Name="NarudzbaStavkaID" />
+    </Key>
+    <Property Name="NarudzbaStavkaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NarudzbaID" Type="Int32" Nullable="false" />
+    <Property Name="ProizvodID" Type="Int32" Nullable="false" />
+    <Property Name="Kolicina" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Narudzbe" Relationship="Self.FK__NarudzbaS__Narud__267ABA7A" FromRole="NarudzbaStavke" ToRole="Narudzbe" />
+    <NavigationProperty Name="Proizvodi" Relationship="Self.FK__NarudzbaS__Proiz__276EDEB3" FromRole="NarudzbaStavke" ToRole="Proizvodi" />
+  </EntityType>
+  <EntityType Name="Narudzbe">
+    <Key>
+      <PropertyRef Name="NarudzbaID" />
+    </Key>
+    <Property Name="NarudzbaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BrojNarudzbe" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="KupacID" Type="Int32" Nullable="false" />
+    <Property Name="Datum" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <Property Name="Otkazano" Type="Boolean" />
+    <NavigationProperty Name="Izlazi" Relationship="Self.FK__Izlazi__Narudzba__2B3F6F97" FromRole="Narudzbe" ToRole="Izlazi" />
+    <NavigationProperty Name="Kupci" Relationship="Self.FK__Narudzbe__KupacI__239E4DCF" FromRole="Narudzbe" ToRole="Kupci" />
+    <NavigationProperty Name="NarudzbaStavke" Relationship="Self.FK__NarudzbaS__Narud__267ABA7A" FromRole="Narudzbe" ToRole="NarudzbaStavke" />
+    <Property Name="AdresaDostaveID" Type="Int32" Nullable="false" />
+    <Property Name="NacinDostaveID" Type="Int32" Nullable="false" />
+    <Property Name="NacinPlacanjaID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="AdresaDostave" Relationship="PEPBazaModel1.FK__Narudzbe__Adresa__2FEF161B" FromRole="Narudzbe" ToRole="AdresaDostave" />
+    <NavigationProperty Name="NacinDostave" Relationship="PEPBazaModel1.FK__Narudzbe__NacinD__30E33A54" FromRole="Narudzbe" ToRole="NacinDostave" />
+    <NavigationProperty Name="NacinPlacanja" Relationship="PEPBazaModel1.FK__Narudzbe__NacinP__31D75E8D" FromRole="Narudzbe" ToRole="NacinPlacanja" />
+  </EntityType>
+  <EntityType Name="Ocjene">
+    <Key>
+      <PropertyRef Name="OcjenaID" />
+    </Key>
+    <Property Name="OcjenaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProizvodID" Type="Int32" Nullable="false" />
+    <Property Name="KupacID" Type="Int32" Nullable="false" />
+    <Property Name="Datum" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Ocjena" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kupci" Relationship="Self.FK__Ocjene__KupacID__32E0915F" FromRole="Ocjene" ToRole="Kupci" />
+    <NavigationProperty Name="Proizvodi" Relationship="Self.FK__Ocjene__Proizvod__31EC6D26" FromRole="Ocjene" ToRole="Proizvodi" />
+  </EntityType>
+  <EntityType Name="Proizvodi">
+    <Key>
+      <PropertyRef Name="ProizvodID" />
+    </Key>
+    <Property Name="ProizvodID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Sifra" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Cijena" Type="Decimal" Precision="5" Scale="2" Nullable="false" />
+    <Property Name="VrstaID" Type="Int32" Nullable="false" />
+    <Property Name="Slika" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="SlikaThumb" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <Property Name="SezonaID" Type="Int32" Nullable="false" />
+    <Property Name="KorisnikID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Korisnici" Relationship="Self.FK__Proizvodi__Koris__01142BA1" FromRole="Proizvodi" ToRole="Korisnici" />
+    <NavigationProperty Name="NarudzbaStavke" Relationship="Self.FK__NarudzbaS__Proiz__276EDEB3" FromRole="Proizvodi" ToRole="NarudzbaStavke" />
+    <NavigationProperty Name="Ocjene" Relationship="Self.FK__Ocjene__Proizvod__31EC6D26" FromRole="Proizvodi" ToRole="Ocjene" />
+    <NavigationProperty Name="Sezone" Relationship="Self.FK__Proizvodi__Sezon__6FE99F9F" FromRole="Proizvodi" ToRole="Sezone" />
+    <NavigationProperty Name="VrsteProizvoda" Relationship="Self.FK__Proizvodi__Vrsta__1BFD2C07" FromRole="Proizvodi" ToRole="VrsteProizvoda" />
+    <NavigationProperty Name="KatalogProizvod" Relationship="PEPBazaModel1.FK__KatalogPr__Proiz__4865BE2A" FromRole="Proizvodi" ToRole="KatalogProizvod" />
+    <NavigationProperty Name="FavouiriteProizvod" Relationship="PEPBazaModel1.FK__Favouirit__Proiz__37FA4C37" FromRole="Proizvodi" ToRole="FavouiriteProizvod" />
+    <NavigationProperty Name="SkladisteProizvodi" Relationship="PEPBazaModel1.FK__Skladiste__Proiz__5B438874" FromRole="Proizvodi" ToRole="SkladisteProizvodi" />
+    <Property Name="VelicinaID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Velicine" Relationship="PEPBazaModel1.FK__Proizvodi__Velic__17236851" FromRole="Proizvodi" ToRole="Velicine" />
+    <NavigationProperty Name="ModeliProizvodi" Relationship="PEPBazaModel1.FK__ModeliPro__Proiz__40257DE4" FromRole="Proizvodi" ToRole="ModeliProizvodi" />
+  </EntityType>
+  <EntityType Name="Revije">
+    <Key>
+      <PropertyRef Name="RevijaID" />
+    </Key>
+    <Property Name="RevijaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Datum" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="KorisnikID" Type="Int32" Nullable="false" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Napomena" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Korisnici" Relationship="Self.FK__Revije__Korisnik__03F0984C" FromRole="Revije" ToRole="Korisnici" />
+    <NavigationProperty Name="Modeli" Relationship="Self.FK__Modeli__RevijaID__6442E2C9" FromRole="Revije" ToRole="Modeli" />
+  </EntityType>
+  <EntityType Name="Sezone">
+    <Key>
+      <PropertyRef Name="SezonaID" />
+    </Key>
+    <Property Name="SezonaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Proizvodi" Relationship="Self.FK__Proizvodi__Sezon__6FE99F9F" FromRole="Sezone" ToRole="Proizvodi" />
+  </EntityType>
+  <EntityType Name="Skladista">
+    <Key>
+      <PropertyRef Name="SkladisteID" />
+    </Key>
+    <Property Name="SkladisteID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Adresa" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Opis" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Izlazi" Relationship="Self.FK__Izlazi__Skladist__2C3393D0" FromRole="Skladista" ToRole="Izlazi" />
+    <NavigationProperty Name="SkladisteProizvodi" Relationship="PEPBazaModel1.FK__Skladiste__Sklad__5C37ACAD" FromRole="Skladista" ToRole="SkladisteProizvodi" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Uloge">
+    <Key>
+      <PropertyRef Name="UlogaID" />
+    </Key>
+    <Property Name="UlogaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Opis" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Korisnici" Relationship="Self.FK__Korisnici__Uloga__2739D489" FromRole="Uloge" ToRole="Korisnici" />
+  </EntityType>
+  <EntityType Name="VrsteProizvoda">
+    <Key>
+      <PropertyRef Name="VrstaID" />
+    </Key>
+    <Property Name="VrstaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Proizvodi" Relationship="Self.FK__Proizvodi__Vrsta__1BFD2C07" FromRole="VrsteProizvoda" ToRole="Proizvodi" />
+  </EntityType>
+  <Association Name="FK__Izlazi__Korisnik__2A4B4B5E">
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="1" />
+    <End Role="Izlazi" Type="Self.Izlazi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="Izlazi">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Izlazi__Narudzba__2B3F6F97">
+    <End Role="Narudzbe" Type="Self.Narudzbe" Multiplicity="0..1" />
+    <End Role="Izlazi" Type="Self.Izlazi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Narudzbe">
+        <PropertyRef Name="NarudzbaID" />
+      </Principal>
+      <Dependent Role="Izlazi">
+        <PropertyRef Name="NarudzbaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Izlazi__Skladist__2C3393D0">
+    <End Role="Skladista" Type="Self.Skladista" Multiplicity="1" />
+    <End Role="Izlazi" Type="Self.Izlazi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Skladista">
+        <PropertyRef Name="SkladisteID" />
+      </Principal>
+      <Dependent Role="Izlazi">
+        <PropertyRef Name="SkladisteID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__IzlazStav__Izlaz__2F10007B">
+    <End Role="Izlazi" Type="Self.Izlazi" Multiplicity="1" />
+    <End Role="IzlazStavke" Type="Self.IzlazStavke" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Izlazi">
+        <PropertyRef Name="IzlazID" />
+      </Principal>
+      <Dependent Role="IzlazStavke">
+        <PropertyRef Name="IzlazID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Korisnici__Uloga__2739D489">
+    <End Role="Uloge" Type="Self.Uloge" Multiplicity="0..1" />
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uloge">
+        <PropertyRef Name="UlogaID" />
+      </Principal>
+      <Dependent Role="Korisnici">
+        <PropertyRef Name="UlogaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LookBook__Korisn__681373AD">
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="1" />
+    <End Role="LookBook" Type="Self.LookBook" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="LookBook">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Proizvodi__Koris__01142BA1">
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="1" />
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="Proizvodi">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Revije__Korisnik__03F0984C">
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="1" />
+    <End Role="Revije" Type="Self.Revije" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="Revije">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Narudzbe__KupacI__239E4DCF">
+    <End Role="Kupci" Type="Self.Kupci" Multiplicity="1" />
+    <End Role="Narudzbe" Type="Self.Narudzbe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kupci">
+        <PropertyRef Name="KupacID" />
+      </Principal>
+      <Dependent Role="Narudzbe">
+        <PropertyRef Name="KupacID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ocjene__KupacID__32E0915F">
+    <End Role="Kupci" Type="Self.Kupci" Multiplicity="1" />
+    <End Role="Ocjene" Type="Self.Ocjene" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kupci">
+        <PropertyRef Name="KupacID" />
+      </Principal>
+      <Dependent Role="Ocjene">
+        <PropertyRef Name="KupacID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Modeli__RevijaID__6442E2C9">
+    <End Role="Revije" Type="Self.Revije" Multiplicity="1" />
+    <End Role="Modeli" Type="Self.Modeli" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Revije">
+        <PropertyRef Name="RevijaID" />
+      </Principal>
+      <Dependent Role="Modeli">
+        <PropertyRef Name="RevijaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NarudzbaS__Narud__267ABA7A">
+    <End Role="Narudzbe" Type="Self.Narudzbe" Multiplicity="1" />
+    <End Role="NarudzbaStavke" Type="Self.NarudzbaStavke" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Narudzbe">
+        <PropertyRef Name="NarudzbaID" />
+      </Principal>
+      <Dependent Role="NarudzbaStavke">
+        <PropertyRef Name="NarudzbaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NarudzbaS__Proiz__276EDEB3">
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="1" />
+    <End Role="NarudzbaStavke" Type="Self.NarudzbaStavke" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Principal>
+      <Dependent Role="NarudzbaStavke">
+        <PropertyRef Name="ProizvodID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ocjene__Proizvod__31EC6D26">
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="1" />
+    <End Role="Ocjene" Type="Self.Ocjene" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Principal>
+      <Dependent Role="Ocjene">
+        <PropertyRef Name="ProizvodID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Proizvodi__Sezon__6FE99F9F">
+    <End Role="Sezone" Type="Self.Sezone" Multiplicity="1" />
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sezone">
+        <PropertyRef Name="SezonaID" />
+      </Principal>
+      <Dependent Role="Proizvodi">
+        <PropertyRef Name="SezonaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Proizvodi__Vrsta__1BFD2C07">
+    <End Role="VrsteProizvoda" Type="Self.VrsteProizvoda" Multiplicity="1" />
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VrsteProizvoda">
+        <PropertyRef Name="VrstaID" />
+      </Principal>
+      <Dependent Role="Proizvodi">
+        <PropertyRef Name="VrstaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PEPBazaEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Izlazi" EntityType="Self.Izlazi" />
+    <EntitySet Name="IzlazStavke" EntityType="Self.IzlazStavke" />
+    <EntitySet Name="Korisnici" EntityType="Self.Korisnici" />
+    <EntitySet Name="Kupci" EntityType="Self.Kupci" />
+    <EntitySet Name="LookBook" EntityType="Self.LookBook" />
+    <EntitySet Name="Modeli" EntityType="Self.Modeli" />
+    <EntitySet Name="NarudzbaStavke" EntityType="Self.NarudzbaStavke" />
+    <EntitySet Name="Narudzbe" EntityType="Self.Narudzbe" />
+    <EntitySet Name="Ocjene" EntityType="Self.Ocjene" />
+    <EntitySet Name="Proizvodi" EntityType="Self.Proizvodi" />
+    <EntitySet Name="Revije" EntityType="Self.Revije" />
+    <EntitySet Name="Sezone" EntityType="Self.Sezone" />
+    <EntitySet Name="Skladista" EntityType="Self.Skladista" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Uloge" EntityType="Self.Uloge" />
+    <EntitySet Name="VrsteProizvoda" EntityType="Self.VrsteProizvoda" />
+    <AssociationSet Name="FK__Izlazi__Korisnik__2A4B4B5E" Association="Self.FK__Izlazi__Korisnik__2A4B4B5E">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="Izlazi" EntitySet="Izlazi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Izlazi__Narudzba__2B3F6F97" Association="Self.FK__Izlazi__Narudzba__2B3F6F97">
+      <End Role="Narudzbe" EntitySet="Narudzbe" />
+      <End Role="Izlazi" EntitySet="Izlazi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Izlazi__Skladist__2C3393D0" Association="Self.FK__Izlazi__Skladist__2C3393D0">
+      <End Role="Skladista" EntitySet="Skladista" />
+      <End Role="Izlazi" EntitySet="Izlazi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__IzlazStav__Izlaz__2F10007B" Association="Self.FK__IzlazStav__Izlaz__2F10007B">
+      <End Role="Izlazi" EntitySet="Izlazi" />
+      <End Role="IzlazStavke" EntitySet="IzlazStavke" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Korisnici__Uloga__2739D489" Association="Self.FK__Korisnici__Uloga__2739D489">
+      <End Role="Uloge" EntitySet="Uloge" />
+      <End Role="Korisnici" EntitySet="Korisnici" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LookBook__Korisn__681373AD" Association="Self.FK__LookBook__Korisn__681373AD">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="LookBook" EntitySet="LookBook" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Proizvodi__Koris__01142BA1" Association="Self.FK__Proizvodi__Koris__01142BA1">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Revije__Korisnik__03F0984C" Association="Self.FK__Revije__Korisnik__03F0984C">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="Revije" EntitySet="Revije" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Narudzbe__KupacI__239E4DCF" Association="Self.FK__Narudzbe__KupacI__239E4DCF">
+      <End Role="Kupci" EntitySet="Kupci" />
+      <End Role="Narudzbe" EntitySet="Narudzbe" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ocjene__KupacID__32E0915F" Association="Self.FK__Ocjene__KupacID__32E0915F">
+      <End Role="Kupci" EntitySet="Kupci" />
+      <End Role="Ocjene" EntitySet="Ocjene" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Modeli__RevijaID__6442E2C9" Association="Self.FK__Modeli__RevijaID__6442E2C9">
+      <End Role="Revije" EntitySet="Revije" />
+      <End Role="Modeli" EntitySet="Modeli" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NarudzbaS__Narud__267ABA7A" Association="Self.FK__NarudzbaS__Narud__267ABA7A">
+      <End Role="Narudzbe" EntitySet="Narudzbe" />
+      <End Role="NarudzbaStavke" EntitySet="NarudzbaStavke" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NarudzbaS__Proiz__276EDEB3" Association="Self.FK__NarudzbaS__Proiz__276EDEB3">
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+      <End Role="NarudzbaStavke" EntitySet="NarudzbaStavke" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ocjene__Proizvod__31EC6D26" Association="Self.FK__Ocjene__Proizvod__31EC6D26">
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+      <End Role="Ocjene" EntitySet="Ocjene" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Proizvodi__Sezon__6FE99F9F" Association="Self.FK__Proizvodi__Sezon__6FE99F9F">
+      <End Role="Sezone" EntitySet="Sezone" />
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Proizvodi__Vrsta__1BFD2C07" Association="Self.FK__Proizvodi__Vrsta__1BFD2C07">
+      <End Role="VrsteProizvoda" EntitySet="VrsteProizvoda" />
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(PEPBazaModel1.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(PEPBazaModel1.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+    <FunctionImport Name="usp_AllRevije" ReturnType="Collection(PEPBazaModel1.usp_AllRevije_Result)" />
+    <FunctionImport Name="usp_Korisnici_Insert" ReturnType="Collection(Decimal)">
+      <Parameter Name="Ime" Mode="In" Type="String" />
+      <Parameter Name="Prezime" Mode="In" Type="String" />
+      <Parameter Name="Email" Mode="In" Type="String" />
+      <Parameter Name="Telefon" Mode="In" Type="String" />
+      <Parameter Name="KorisnickoIme" Mode="In" Type="String" />
+      <Parameter Name="LozinkaSalt" Mode="In" Type="String" />
+      <Parameter Name="LozinkaHash" Mode="In" Type="String" />
+      <Parameter Name="Status" Mode="In" Type="Boolean" />
+      <Parameter Name="UlogaID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_Korisnici_SelectByImePrezime" EntitySet="Korisnici" ReturnType="Collection(PEPBazaModel1.Korisnici)">
+      <Parameter Name="ImePrezime" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="usp_LastModelID" ReturnType="Collection(Int32)" />
+    <FunctionImport Name="usp_Modeli" EntitySet="Modeli" ReturnType="Collection(PEPBazaModel1.Modeli)" />
+    <FunctionImport Name="usp_Proizvodi_Insert">
+      <Parameter Name="Naziv" Mode="In" Type="String" />
+      <Parameter Name="Sifra" Mode="In" Type="String" />
+      <Parameter Name="Cijena" Mode="In" Type="Decimal" />
+      <Parameter Name="VrstaID" Mode="In" Type="Int32" />
+      <Parameter Name="Slika" Mode="In" Type="Binary" />
+      <Parameter Name="SlikaThumb" Mode="In" Type="Binary" />
+      <Parameter Name="Status" Mode="In" Type="Boolean" />
+      <Parameter Name="SezonaID" Mode="In" Type="Int32" />
+      <Parameter Name="KorisnikID" Mode="In" Type="Int32" />
+      <Parameter Name="VelicinaID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_ProizvodiByModel" ReturnType="Collection(PEPBazaModel1.usp_ProizvodiByModel_Result)">
+      <Parameter Name="ModelID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_RevijeByKorisnik" ReturnType="Collection(PEPBazaModel1.RevijeByKorisnik)">
+      <Parameter Name="KorisnikID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_RevijeByKorisnikLook" ReturnType="Collection(PEPBazaModel1.usp_RevijeByKorisnikLook_Result)">
+      <Parameter Name="KorisnikID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_ModelLookBook_Insert">
+      <Parameter Name="LookBookID" Mode="In" Type="Int32" />
+      <Parameter Name="ModelID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_LookBook_Insert" ReturnType="Collection(Decimal)">
+      <Parameter Name="Naziv" Mode="In" Type="String" />
+      <Parameter Name="KorisnikID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <EntitySet Name="ModelLookBook" EntityType="PEPBazaModel1.ModelLookBook" />
+    <AssociationSet Name="FK__ModelLook__LookB__1F63A897" Association="PEPBazaModel1.FK__ModelLook__LookB__1F63A897">
+      <End Role="LookBook" EntitySet="LookBook" />
+      <End Role="ModelLookBook" EntitySet="ModelLookBook" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ModelLook__Model__1E6F845E" Association="PEPBazaModel1.FK__ModelLook__Model__1E6F845E">
+      <End Role="Modeli" EntitySet="Modeli" />
+      <End Role="ModelLookBook" EntitySet="ModelLookBook" />
+    </AssociationSet>
+    <FunctionImport Name="usp_ModeliByLookBook" ReturnType="Collection(PEPBazaModel1.usp_ModeliByLookBook_Result)">
+      <Parameter Name="LookBookID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_PretragaProizvoda_" ReturnType="Collection(PEPBazaModel1.usp_PretragaProizvoda__Result)">
+      <Parameter Name="VrstaID" Mode="In" Type="Int32" />
+      <Parameter Name="SezonaID" Mode="In" Type="Int32" />
+      <Parameter Name="NazivProizvoda" Mode="In" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="Katalog" EntityType="PEPBazaModel1.Katalog" />
+    <EntitySet Name="KatalogProizvod" EntityType="PEPBazaModel1.KatalogProizvod" />
+    <AssociationSet Name="FK__Katalog__Korisni__44952D46" Association="PEPBazaModel1.FK__Katalog__Korisni__44952D46">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="Katalog" EntitySet="Katalog" />
+    </AssociationSet>
+    <AssociationSet Name="FK__KatalogPr__Katal__4959E263" Association="PEPBazaModel1.FK__KatalogPr__Katal__4959E263">
+      <End Role="Katalog" EntitySet="Katalog" />
+      <End Role="KatalogProizvod" EntitySet="KatalogProizvod" />
+    </AssociationSet>
+    <AssociationSet Name="FK__KatalogPr__Proiz__4865BE2A" Association="PEPBazaModel1.FK__KatalogPr__Proiz__4865BE2A">
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+      <End Role="KatalogProizvod" EntitySet="KatalogProizvod" />
+    </AssociationSet>
+    <FunctionImport Name="usp_Katalog_Insert" ReturnType="Collection(Decimal)">
+      <Parameter Name="Naziv" Mode="In" Type="String" />
+      <Parameter Name="KorisnikID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="uspProizvodiBySezonaRevija" ReturnType="Collection(PEPBazaModel1.uspProizvodiBySezonaRevija_Result)">
+      <Parameter Name="SezonaID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_KatalogProizvod_Insert">
+      <Parameter Name="KatalogID" Mode="In" Type="Int32" />
+      <Parameter Name="ProizvodID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_KatalogByVrsta" ReturnType="Collection(PEPBazaModel1.usp_KatalogByVrsta_Result)" />
+    <FunctionImport Name="usp_ProizvodiByKatalog" ReturnType="Collection(PEPBazaModel1.usp_ProizvodiByKatalog_Result)">
+      <Parameter Name="KatalogID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_RevijeByDatum" ReturnType="Collection(PEPBazaModel1.usp_RevijeByDatum_Result)">
+      <Parameter Name="DatumPocetak" Mode="In" Type="DateTime" />
+      <Parameter Name="DatumKraj" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="usp_AllModeli" ReturnType="Collection(PEPBazaModel1.usp_AllModeli_Result)" />
+    <FunctionImport Name="usp_Proizvodi_SelectById" ReturnType="Collection(PEPBazaModel1.usp_Proizvodi_SelectById_Result)">
+      <Parameter Name="ProizvodID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_ModeliByLookbookPhone" ReturnType="Collection(PEPBazaModel1.usp_ModeliByLookbookPhone_Result)" />
+    <FunctionImport Name="usp_Modeli_SelectByIdPhone" ReturnType="Collection(PEPBazaModel1.usp_Modeli_SelectByIdPhone_Result)">
+      <Parameter Name="ModelID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_ProizvodiByModelPhone" ReturnType="Collection(PEPBazaModel1.usp_ProizvodiByModelPhone_Result)">
+      <Parameter Name="ModelID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_NarudzbaStavke_Insert">
+      <Parameter Name="NarudzbaID" Mode="In" Type="Int32" />
+      <Parameter Name="ProizvodID" Mode="In" Type="Int32" />
+      <Parameter Name="Kolicina" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_Narudzbe_Insert" ReturnType="Collection(Decimal)">
+      <Parameter Name="BrojNarudzbe" Mode="In" Type="String" />
+      <Parameter Name="KupacID" Mode="In" Type="Int32" />
+      <Parameter Name="Datum" Mode="In" Type="DateTime" />
+      <Parameter Name="AdresaDostaveID" Mode="In" Type="Int32" />
+      <Parameter Name="NacinDostaveID" Mode="In" Type="Int32" />
+      <Parameter Name="NacinPlacanjaID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_FavouriteProizvod_Insert">
+      <Parameter Name="FavouriteID" Mode="In" Type="Int32" />
+      <Parameter Name="ProizvodID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <EntitySet Name="FavouiriteProizvod" EntityType="PEPBazaModel1.FavouiriteProizvod" />
+    <EntitySet Name="Favourite" EntityType="PEPBazaModel1.Favourite" />
+    <AssociationSet Name="FK__Favouirit__Favou__370627FE" Association="PEPBazaModel1.FK__Favouirit__Favou__370627FE">
+      <End Role="Favourite" EntitySet="Favourite" />
+      <End Role="FavouiriteProizvod" EntitySet="FavouiriteProizvod" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Favouirit__Proiz__37FA4C37" Association="PEPBazaModel1.FK__Favouirit__Proiz__37FA4C37">
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+      <End Role="FavouiriteProizvod" EntitySet="FavouiriteProizvod" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Favourite__Kupac__3CBF0154" Association="PEPBazaModel1.FK__Favourite__Kupac__3CBF0154">
+      <End Role="Kupci" EntitySet="Kupci" />
+      <End Role="Favourite" EntitySet="Favourite" />
+    </AssociationSet>
+    <FunctionImport Name="usp_FavouriteInsert" ReturnType="Collection(Decimal)">
+      <Parameter Name="KupacID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_Narudzbe_SelectAktivne" ReturnType="Collection(PEPBazaModel1.usp_Narudzbe_SelectAktivne_Result)" />
+    <FunctionImport Name="usp_NarudzbeStavke_SelectByNarudzbaID" ReturnType="Collection(PEPBazaModel1.usp_NarudzbeStavke_SelectByNarudzbaID_Result)">
+      <Parameter Name="NarudzbaID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <EntitySet Name="SkladisteProizvodi" EntityType="PEPBazaModel1.SkladisteProizvodi" />
+    <AssociationSet Name="FK__Skladiste__Koris__5A4F643B" Association="PEPBazaModel1.FK__Skladiste__Koris__5A4F643B">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="SkladisteProizvodi" EntitySet="SkladisteProizvodi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Skladiste__Proiz__5B438874" Association="PEPBazaModel1.FK__Skladiste__Proiz__5B438874">
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+      <End Role="SkladisteProizvodi" EntitySet="SkladisteProizvodi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Skladiste__Sklad__5C37ACAD" Association="PEPBazaModel1.FK__Skladiste__Sklad__5C37ACAD">
+      <End Role="Skladista" EntitySet="Skladista" />
+      <End Role="SkladisteProizvodi" EntitySet="SkladisteProizvodi" />
+    </AssociationSet>
+    <FunctionImport Name="usp_Select_ProizvodiBySkladiste" ReturnType="Collection(PEPBazaModel1.usp_Select_ProizvodiBySkladiste_Result)">
+      <Parameter Name="SkladisteID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_Select_StavkeSkladista" ReturnType="Collection(PEPBazaModel1.usp_Select_StavkeSkladista_Result)">
+      <Parameter Name="SkladisteProizvodiID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_Izlazi_InsertByNarudzbaID">
+      <Parameter Name="NarudzbaID" Mode="In" Type="Int32" />
+      <Parameter Name="SkladisteID" Mode="In" Type="Int32" />
+      <Parameter Name="KorisnikID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_Select_Narudzbe" ReturnType="Collection(PEPBazaModel1.usp_Select_Narudzbe_Result)">
+      <Parameter Name="KupacID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_Select_NajprodavanijiProizvodi" ReturnType="Collection(PEPBazaModel1.usp_Select_NajprodavanijiProizvodi_Result)" />
+    <FunctionImport Name="usp_Ocjena_Proizvoda">
+      <Parameter Name="ProizvodID" Mode="In" Type="Int32" />
+      <Parameter Name="KupacID" Mode="In" Type="Int32" />
+      <Parameter Name="Ocjena" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_ProsjecnaOcjena" ReturnType="Collection(Decimal)">
+      <Parameter Name="ProizvodID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_OcjenaDizajnera_Insert">
+      <Parameter Name="KorisnikID" Mode="In" Type="Int32" />
+      <Parameter Name="KupacID" Mode="In" Type="Int32" />
+      <Parameter Name="Ocjena" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <EntitySet Name="OcjeneDizajnera" EntityType="PEPBazaModel1.OcjeneDizajnera" />
+    <AssociationSet Name="FK__OcjeneDiz__Koris__278EDA44" Association="PEPBazaModel1.FK__OcjeneDiz__Koris__278EDA44">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="OcjeneDizajnera" EntitySet="OcjeneDizajnera" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OcjeneDiz__Kupac__2882FE7D" Association="PEPBazaModel1.FK__OcjeneDiz__Kupac__2882FE7D">
+      <End Role="Kupci" EntitySet="Kupci" />
+      <End Role="OcjeneDizajnera" EntitySet="OcjeneDizajnera" />
+    </AssociationSet>
+    <FunctionImport Name="usp_najboljeOcijenjeniDizajneri" ReturnType="Collection(PEPBazaModel1.usp_najboljeOcijenjeniDizajneri_Result)" />
+    <FunctionImport Name="usp_najboljeOcijenjeniProizvodi" ReturnType="Collection(PEPBazaModel1.usp_najboljeOcijenjeniProizvodi_Result)" />
+    <FunctionImport Name="usp_NajprodavanijiByMjesec" ReturnType="Collection(PEPBazaModel1.usp_NajprodavanijiByMjesec_Result)">
+      <Parameter Name="Datum" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="usp_SelectNarudzbeDesk" ReturnType="Collection(PEPBazaModel1.usp_SelectNarudzbeDesk_Result)" />
+    <EntitySet Name="Velicine" EntityType="PEPBazaModel1.Velicine" />
+    <AssociationSet Name="FK__Proizvodi__Velic__17236851" Association="PEPBazaModel1.FK__Proizvodi__Velic__17236851">
+      <End Role="Velicine" EntitySet="Velicine" />
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+    </AssociationSet>
+    <EntitySet Name="AdresaDostave" EntityType="PEPBazaModel1.AdresaDostave" />
+    <EntitySet Name="NacinDostave" EntityType="PEPBazaModel1.NacinDostave" />
+    <EntitySet Name="NacinPlacanja" EntityType="PEPBazaModel1.NacinPlacanja" />
+    <AssociationSet Name="FK__Narudzbe__Adresa__2FEF161B" Association="PEPBazaModel1.FK__Narudzbe__Adresa__2FEF161B">
+      <End Role="AdresaDostave" EntitySet="AdresaDostave" />
+      <End Role="Narudzbe" EntitySet="Narudzbe" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Narudzbe__NacinD__30E33A54" Association="PEPBazaModel1.FK__Narudzbe__NacinD__30E33A54">
+      <End Role="NacinDostave" EntitySet="NacinDostave" />
+      <End Role="Narudzbe" EntitySet="Narudzbe" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Narudzbe__NacinP__31D75E8D" Association="PEPBazaModel1.FK__Narudzbe__NacinP__31D75E8D">
+      <End Role="NacinPlacanja" EntitySet="NacinPlacanja" />
+      <End Role="Narudzbe" EntitySet="Narudzbe" />
+    </AssociationSet>
+    <EntitySet Name="ModeliProizvodi" EntityType="PEPBazaModel1.ModeliProizvodi" />
+    <AssociationSet Name="FK__ModeliPro__Model__3F3159AB" Association="PEPBazaModel1.FK__ModeliPro__Model__3F3159AB">
+      <End Role="Modeli" EntitySet="Modeli" />
+      <End Role="ModeliProizvodi" EntitySet="ModeliProizvodi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ModeliPro__Proiz__40257DE4" Association="PEPBazaModel1.FK__ModeliPro__Proiz__40257DE4">
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+      <End Role="ModeliProizvodi" EntitySet="ModeliProizvodi" />
+    </AssociationSet>
+    <FunctionImport Name="usp_Select_NajboljeOcijenjeniDizajner" ReturnType="Collection(PEPBazaModel1.usp_Select_NajboljeOcijenjeniDizajner_Result)" />
+    <FunctionImport Name="usp_UserBased_Preporuka" ReturnType="Collection(PEPBazaModel1.usp_UserBased_Preporuka_Result)">
+      <Parameter Name="ProizvodID" Mode="In" Type="Int32" />
+      <Parameter Name="KupacID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_UserBased2" ReturnType="Collection(PEPBazaModel1.usp_UserBased2_Result)">
+      <Parameter Name="KupacID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_ModeliByDizajnerID" ReturnType="Collection(PEPBazaModel1.usp_ModeliByDizajnerID_Result)">
+      <Parameter Name="KorisnikID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_StatistikaDizajner" ReturnType="Collection(PEPBazaModel1.usp_StatistikaDizajner_Result)">
+      <Parameter Name="KorisnikID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_DostupneVelicine" EntitySet="Velicine" ReturnType="Collection(PEPBazaModel1.Velicine)">
+      <Parameter Name="Naziv" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="usp_ProizvodUFavourite" EntitySet="FavouiriteProizvod" ReturnType="Collection(PEPBazaModel1.FavouiriteProizvod)">
+      <Parameter Name="ProizvodID" Mode="In" Type="Int32" />
+      <Parameter Name="KupacID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_ProizvodiIzFavourite" EntitySet="Proizvodi" ReturnType="Collection(PEPBazaModel1.Proizvodi)">
+      <Parameter Name="FavouriteID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_KatalogSelect" ReturnType="Collection(PEPBazaModel1.usp_KatalogSelect_Result)" />
+    <FunctionImport Name="usp_StatistikaZarada" ReturnType="Collection(PEPBazaModel1.usp_StatistikaZarada_Result)" />
+    <FunctionImport Name="usp_KolicinaProdanihByVrsta" ReturnType="Collection(PEPBazaModel1.usp_KolicinaProdanihByVrsta_Result)" />
+  </EntityContainer>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="usp_AllRevije_Result">
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="DateTime" Name="Datum" Nullable="false" Precision="23" />
+    <Property Type="String" Name="Napomena" Nullable="true" MaxLength="200" />
+    <Property Type="String" Name="Ime" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Prezime" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Email" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="usp_ProizvodiByModel_Result">
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="RevijeByKorisnik">
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="DateTime" Name="Datum" Nullable="false" Precision="23" />
+    <Property Type="String" Name="Napomena" Nullable="true" MaxLength="200" />
+    <Property Type="Int32" Name="RevijaID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="usp_RevijeByKorisnikLook_Result">
+    <Property Type="Int32" Name="RevijaID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="DateTime" Name="Datum" Nullable="false" Precision="23" />
+    <Property Type="String" Name="Napomena" Nullable="true" MaxLength="200" />
+  </ComplexType>
+  <EntityType Name="ModelLookBook">
+    <Key>
+      <PropertyRef Name="ModelLookBookID" />
+    </Key>
+    <Property Name="ModelLookBookID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ModelID" Type="Int32" Nullable="false" />
+    <Property Name="LookBookID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="LookBook" Relationship="PEPBazaModel1.FK__ModelLook__LookB__1F63A897" FromRole="ModelLookBook" ToRole="LookBook" />
+    <NavigationProperty Name="Modeli" Relationship="PEPBazaModel1.FK__ModelLook__Model__1E6F845E" FromRole="ModelLookBook" ToRole="Modeli" />
+  </EntityType>
+  <Association Name="FK__ModelLook__LookB__1F63A897">
+    <End Type="PEPBazaModel1.LookBook" Role="LookBook" Multiplicity="1" />
+    <End Type="PEPBazaModel1.ModelLookBook" Role="ModelLookBook" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LookBook">
+        <PropertyRef Name="LookBookID" />
+      </Principal>
+      <Dependent Role="ModelLookBook">
+        <PropertyRef Name="LookBookID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ModelLook__Model__1E6F845E">
+    <End Type="PEPBazaModel1.Modeli" Role="Modeli" Multiplicity="1" />
+    <End Type="PEPBazaModel1.ModelLookBook" Role="ModelLookBook" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Modeli">
+        <PropertyRef Name="ModelID" />
+      </Principal>
+      <Dependent Role="ModelLookBook">
+        <PropertyRef Name="ModelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="usp_ModeliByLookBook_Result">
+    <Property Type="Int32" Name="ModelID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Opis" Nullable="true" MaxLength="200" />
+    <Property Type="Binary" Name="Slika" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_PretragaProizvoda__Result">
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sifra" Nullable="false" MaxLength="20" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="String" Name="Vrsta" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sezona" Nullable="false" MaxLength="50" />
+    <Property Type="Binary" Name="Slika" Nullable="true" />
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+    <Property Type="Int32" Name="KorisnikID" Nullable="false" />
+    <Property Type="String" Name="DizajnerP" Nullable="false" MaxLength="101" />
+    <Property Type="String" Name="Velicina" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <EntityType Name="Katalog">
+    <Key>
+      <PropertyRef Name="KatalogID" />
+    </Key>
+    <Property Name="KatalogID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KorisnikID" Type="Int32" Nullable="false" />
+    <Property Name="Naziv" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Datum" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Korisnici" Relationship="PEPBazaModel1.FK__Katalog__Korisni__44952D46" FromRole="Katalog" ToRole="Korisnici" />
+    <NavigationProperty Name="KatalogProizvod" Relationship="PEPBazaModel1.FK__KatalogPr__Katal__4959E263" FromRole="Katalog" ToRole="KatalogProizvod" />
+  </EntityType>
+  <EntityType Name="KatalogProizvod">
+    <Key>
+      <PropertyRef Name="KatalogProizvodID" />
+    </Key>
+    <Property Name="KatalogProizvodID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProizvodID" Type="Int32" Nullable="false" />
+    <Property Name="KatalogID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Katalog" Relationship="PEPBazaModel1.FK__KatalogPr__Katal__4959E263" FromRole="KatalogProizvod" ToRole="Katalog" />
+    <NavigationProperty Name="Proizvodi" Relationship="PEPBazaModel1.FK__KatalogPr__Proiz__4865BE2A" FromRole="KatalogProizvod" ToRole="Proizvodi" />
+  </EntityType>
+  <Association Name="FK__Katalog__Korisni__44952D46">
+    <End Type="PEPBazaModel1.Korisnici" Role="Korisnici" Multiplicity="1" />
+    <End Type="PEPBazaModel1.Katalog" Role="Katalog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="Katalog">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__KatalogPr__Katal__4959E263">
+    <End Type="PEPBazaModel1.Katalog" Role="Katalog" Multiplicity="1" />
+    <End Type="PEPBazaModel1.KatalogProizvod" Role="KatalogProizvod" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Katalog">
+        <PropertyRef Name="KatalogID" />
+      </Principal>
+      <Dependent Role="KatalogProizvod">
+        <PropertyRef Name="KatalogID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__KatalogPr__Proiz__4865BE2A">
+    <End Type="PEPBazaModel1.Proizvodi" Role="Proizvodi" Multiplicity="1" />
+    <End Type="PEPBazaModel1.KatalogProizvod" Role="KatalogProizvod" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Principal>
+      <Dependent Role="KatalogProizvod">
+        <PropertyRef Name="ProizvodID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="uspProizvodiBySezonaRevija_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sifra" Nullable="false" MaxLength="20" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="String" Name="Vrsta" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sezona" Nullable="false" MaxLength="50" />
+    <Property Type="Binary" Name="Slika" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_KatalogByVrsta_Result">
+    <Property Type="Int32" Name="KatalogID" Nullable="false" />
+    <Property Type="DateTime" Name="Datum" Nullable="false" Precision="23" />
+    <Property Type="String" Name="NazivK" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="DizajnerK" Nullable="false" MaxLength="101" />
+  </ComplexType>
+  <ComplexType Name="usp_ProizvodiByKatalog_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sifra" Nullable="false" MaxLength="20" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="String" Name="Vrsta" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sezona" Nullable="false" MaxLength="50" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_RevijeByDatum_Result">
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="DateTime" Name="Datum" Nullable="false" Precision="23" />
+    <Property Type="String" Name="Napomena" Nullable="true" MaxLength="200" />
+    <Property Type="String" Name="Email" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="DizajnerR" Nullable="false" MaxLength="101" />
+  </ComplexType>
+  <ComplexType Name="usp_AllModeli_Result">
+    <Property Type="Int32" Name="ModelID" Nullable="false" />
+    <Property Type="Binary" Name="Slika" Nullable="true" />
+    <Property Type="String" Name="Opis" Nullable="true" MaxLength="200" />
+    <Property Type="String" Name="Naziv" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Revija" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="usp_Proizvodi_SelectById_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sifra" Nullable="false" MaxLength="20" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="Int32" Name="VrstaID" Nullable="false" />
+    <Property Type="Binary" Name="Slika" Nullable="true" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+    <Property Type="Boolean" Name="Status" Nullable="false" />
+    <Property Type="Int32" Name="SezonaID" Nullable="false" />
+    <Property Type="Int32" Name="KorisnikID" Nullable="false" />
+    <Property Type="String" Name="VrstaProizvoda" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sezona" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Ime" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Prezime" Nullable="false" MaxLength="50" />
+    <Property Type="Double" Name="ProsjecnaOcjena" Nullable="true" />
+    <Property Type="Int32" Name="VelicinaID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="usp_ModeliByLookbookPhone_Result">
+    <Property Type="Int32" Name="ModelID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Opis" Nullable="true" MaxLength="200" />
+    <Property Type="Binary" Name="Slika" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_Modeli_SelectByIdPhone_Result">
+    <Property Type="Int32" Name="ModelID" Nullable="false" />
+    <Property Type="Binary" Name="Slika" Nullable="true" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+    <Property Type="String" Name="Opis" Nullable="true" MaxLength="200" />
+    <Property Type="String" Name="Naziv" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="RevijaID" Nullable="false" />
+    <Property Type="String" Name="Revija" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Lookbook" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="KorisnikID" Nullable="false" />
+    <Property Type="String" Name="Dizajner" Nullable="false" MaxLength="101" />
+    <Property Type="Double" Name="Prosjek" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_ProizvodiByModelPhone_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="String" Name="Sifra" Nullable="false" MaxLength="20" />
+  </ComplexType>
+  <EntityType Name="FavouiriteProizvod">
+    <Key>
+      <PropertyRef Name="FavouriteProizvodID" />
+    </Key>
+    <Property Name="FavouriteProizvodID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FavouriteID" Type="Int32" Nullable="false" />
+    <Property Name="ProizvodID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Favourite" Relationship="PEPBazaModel1.FK__Favouirit__Favou__370627FE" FromRole="FavouiriteProizvod" ToRole="Favourite" />
+    <NavigationProperty Name="Proizvodi" Relationship="PEPBazaModel1.FK__Favouirit__Proiz__37FA4C37" FromRole="FavouiriteProizvod" ToRole="Proizvodi" />
+  </EntityType>
+  <EntityType Name="Favourite">
+    <Key>
+      <PropertyRef Name="FavouriteID" />
+    </Key>
+    <Property Name="FavouriteID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Datum" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="FavouiriteProizvod" Relationship="PEPBazaModel1.FK__Favouirit__Favou__370627FE" FromRole="Favourite" ToRole="FavouiriteProizvod" />
+    <Property Name="KupacID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kupci" Relationship="PEPBazaModel1.FK__Favourite__Kupac__3CBF0154" FromRole="Favourite" ToRole="Kupci" />
+  </EntityType>
+  <Association Name="FK__Favouirit__Favou__370627FE">
+    <End Type="PEPBazaModel1.Favourite" Role="Favourite" Multiplicity="1" />
+    <End Type="PEPBazaModel1.FavouiriteProizvod" Role="FavouiriteProizvod" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Favourite">
+        <PropertyRef Name="FavouriteID" />
+      </Principal>
+      <Dependent Role="FavouiriteProizvod">
+        <PropertyRef Name="FavouriteID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Favouirit__Proiz__37FA4C37">
+    <End Type="PEPBazaModel1.Proizvodi" Role="Proizvodi" Multiplicity="1" />
+    <End Type="PEPBazaModel1.FavouiriteProizvod" Role="FavouiriteProizvod" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Principal>
+      <Dependent Role="FavouiriteProizvod">
+        <PropertyRef Name="ProizvodID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Favourite__Kupac__3CBF0154">
+    <End Type="PEPBazaModel1.Kupci" Role="Kupci" Multiplicity="1" />
+    <End Type="PEPBazaModel1.Favourite" Role="Favourite" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kupci">
+        <PropertyRef Name="KupacID" />
+      </Principal>
+      <Dependent Role="Favourite">
+        <PropertyRef Name="KupacID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="usp_Narudzbe_SelectAktivne_Result">
+    <Property Type="Int32" Name="NarudzbaID" Nullable="false" />
+    <Property Type="String" Name="BrojNarudzbe" Nullable="false" MaxLength="20" />
+    <Property Type="Int32" Name="KupacID" Nullable="false" />
+    <Property Type="DateTime" Name="Datum" Nullable="false" Precision="23" />
+    <Property Type="String" Name="Kupac" Nullable="false" MaxLength="101" />
+    <Property Type="Decimal" Name="Iznos" Nullable="true" Precision="38" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="usp_NarudzbeStavke_SelectByNarudzbaID_Result">
+    <Property Type="Int32" Name="NarudzbaStavkaID" Nullable="false" />
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sifra" Nullable="false" MaxLength="20" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="Int32" Name="Kolicina" Nullable="false" />
+    <Property Type="Decimal" Name="Iznos" Nullable="true" Precision="16" Scale="2" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+  </ComplexType>
+  <EntityType Name="SkladisteProizvodi">
+    <Key>
+      <PropertyRef Name="SkladisteProizvodiID" />
+    </Key>
+    <Property Name="SkladisteProizvodiID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KorisnikID" Type="Int32" Nullable="false" />
+    <Property Name="ProizvodID" Type="Int32" Nullable="false" />
+    <Property Name="Datum" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Korisnici" Relationship="PEPBazaModel1.FK__Skladiste__Koris__5A4F643B" FromRole="SkladisteProizvodi" ToRole="Korisnici" />
+    <NavigationProperty Name="Proizvodi" Relationship="PEPBazaModel1.FK__Skladiste__Proiz__5B438874" FromRole="SkladisteProizvodi" ToRole="Proizvodi" />
+    <Property Name="SkladisteID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Skladista" Relationship="PEPBazaModel1.FK__Skladiste__Sklad__5C37ACAD" FromRole="SkladisteProizvodi" ToRole="Skladista" />
+    <Property Name="Kolicina" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Skladiste__Koris__5A4F643B">
+    <End Type="PEPBazaModel1.Korisnici" Role="Korisnici" Multiplicity="1" />
+    <End Type="PEPBazaModel1.SkladisteProizvodi" Role="SkladisteProizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="SkladisteProizvodi">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Skladiste__Proiz__5B438874">
+    <End Type="PEPBazaModel1.Proizvodi" Role="Proizvodi" Multiplicity="1" />
+    <End Type="PEPBazaModel1.SkladisteProizvodi" Role="SkladisteProizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Principal>
+      <Dependent Role="SkladisteProizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Skladiste__Sklad__5C37ACAD">
+    <End Type="PEPBazaModel1.Skladista" Role="Skladista" Multiplicity="1" />
+    <End Type="PEPBazaModel1.SkladisteProizvodi" Role="SkladisteProizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Skladista">
+        <PropertyRef Name="SkladisteID" />
+      </Principal>
+      <Dependent Role="SkladisteProizvodi">
+        <PropertyRef Name="SkladisteID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="usp_Select_ProizvodiBySkladiste_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sifra" Nullable="false" MaxLength="20" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="String" Name="Vrsta" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Dizajner" Nullable="false" MaxLength="101" />
+    <Property Type="Int32" Name="Kolicina" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="usp_Select_StavkeSkladista_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="String" Name="Sifra" Nullable="false" MaxLength="20" />
+  </ComplexType>
+  <ComplexType Name="usp_Select_Narudzbe_Result">
+    <Property Type="Int32" Name="NarudzbaID" Nullable="false" />
+    <Property Type="String" Name="BrojNarudzbe" Nullable="false" MaxLength="20" />
+    <Property Type="Int32" Name="KupacID" Nullable="false" />
+    <Property Type="DateTime" Name="Datum" Nullable="false" Precision="23" />
+    <Property Type="Decimal" Name="Iznos" Nullable="true" Precision="38" Scale="2" />
+    <Property Type="Boolean" Name="Status" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="usp_Select_NajprodavanijiProizvodi_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="Broj2" Nullable="true" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+  </ComplexType>
+  <EntityType Name="OcjeneDizajnera">
+    <Key>
+      <PropertyRef Name="OcjenaDizajneraID" />
+    </Key>
+    <Property Name="OcjenaDizajneraID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KorisnikID" Type="Int32" Nullable="false" />
+    <Property Name="KupacID" Type="Int32" Nullable="false" />
+    <Property Name="Datum" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Ocjena" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Korisnici" Relationship="PEPBazaModel1.FK__OcjeneDiz__Koris__278EDA44" FromRole="OcjeneDizajnera" ToRole="Korisnici" />
+    <NavigationProperty Name="Kupci" Relationship="PEPBazaModel1.FK__OcjeneDiz__Kupac__2882FE7D" FromRole="OcjeneDizajnera" ToRole="Kupci" />
+  </EntityType>
+  <Association Name="FK__OcjeneDiz__Koris__278EDA44">
+    <End Type="PEPBazaModel1.Korisnici" Role="Korisnici" Multiplicity="1" />
+    <End Type="PEPBazaModel1.OcjeneDizajnera" Role="OcjeneDizajnera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="OcjeneDizajnera">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OcjeneDiz__Kupac__2882FE7D">
+    <End Type="PEPBazaModel1.Kupci" Role="Kupci" Multiplicity="1" />
+    <End Type="PEPBazaModel1.OcjeneDizajnera" Role="OcjeneDizajnera" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kupci">
+        <PropertyRef Name="KupacID" />
+      </Principal>
+      <Dependent Role="OcjeneDizajnera">
+        <PropertyRef Name="KupacID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="usp_najboljeOcijenjeniDizajneri_Result">
+    <Property Type="Int32" Name="KorisnikID" Nullable="false" />
+    <Property Type="String" Name="Dizajner" Nullable="false" MaxLength="101" />
+    <Property Type="String" Name="Email" Nullable="false" MaxLength="50" />
+    <Property Type="Decimal" Name="Ocjena" Nullable="true" Precision="16" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="usp_najboljeOcijenjeniProizvodi_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+    <Property Type="Decimal" Name="Ocjena" Nullable="true" Precision="16" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="usp_NajprodavanijiByMjesec_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+    <Property Type="Int32" Name="Broj2" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_SelectNarudzbeDesk_Result">
+    <Property Type="Int32" Name="NarudzbaID" Nullable="false" />
+    <Property Type="String" Name="BrojNarudzbe" Nullable="false" MaxLength="20" />
+    <Property Type="DateTime" Name="Datum" Nullable="false" Precision="23" />
+    <Property Type="String" Name="Kupac" Nullable="false" MaxLength="101" />
+    <Property Type="Decimal" Name="Iznos" Nullable="true" Precision="38" Scale="2" />
+  </ComplexType>
+  <EntityType Name="Velicine">
+    <Key>
+      <PropertyRef Name="VelicinaID" />
+    </Key>
+    <Property Name="VelicinaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Proizvodi" Relationship="PEPBazaModel1.FK__Proizvodi__Velic__17236851" FromRole="Velicine" ToRole="Proizvodi" />
+  </EntityType>
+  <Association Name="FK__Proizvodi__Velic__17236851">
+    <End Type="PEPBazaModel1.Velicine" Role="Velicine" Multiplicity="1" />
+    <End Type="PEPBazaModel1.Proizvodi" Role="Proizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Velicine">
+        <PropertyRef Name="VelicinaID" />
+      </Principal>
+      <Dependent Role="Proizvodi">
+        <PropertyRef Name="VelicinaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="AdresaDostave">
+    <Key>
+      <PropertyRef Name="AdresaDostaveID" />
+    </Key>
+    <Property Name="AdresaDostaveID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ime" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Prezime" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="PostanskiBroj" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ulica" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Drzava" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Narudzbe" Relationship="PEPBazaModel1.FK__Narudzbe__Adresa__2FEF161B" FromRole="AdresaDostave" ToRole="Narudzbe" />
+  </EntityType>
+  <EntityType Name="NacinDostave">
+    <Key>
+      <PropertyRef Name="NacinDostaveID" />
+    </Key>
+    <Property Name="NacinDostaveID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Opis" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Narudzbe" Relationship="PEPBazaModel1.FK__Narudzbe__NacinD__30E33A54" FromRole="NacinDostave" ToRole="Narudzbe" />
+  </EntityType>
+  <EntityType Name="NacinPlacanja">
+    <Key>
+      <PropertyRef Name="NacinPlacanjaID" />
+    </Key>
+    <Property Name="NacinPlacanjaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Opis" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Narudzbe" Relationship="PEPBazaModel1.FK__Narudzbe__NacinP__31D75E8D" FromRole="NacinPlacanja" ToRole="Narudzbe" />
+  </EntityType>
+  <Association Name="FK__Narudzbe__Adresa__2FEF161B">
+    <End Type="PEPBazaModel1.AdresaDostave" Role="AdresaDostave" Multiplicity="1" />
+    <End Type="PEPBazaModel1.Narudzbe" Role="Narudzbe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AdresaDostave">
+        <PropertyRef Name="AdresaDostaveID" />
+      </Principal>
+      <Dependent Role="Narudzbe">
+        <PropertyRef Name="AdresaDostaveID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Narudzbe__NacinD__30E33A54">
+    <End Type="PEPBazaModel1.NacinDostave" Role="NacinDostave" Multiplicity="1" />
+    <End Type="PEPBazaModel1.Narudzbe" Role="Narudzbe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NacinDostave">
+        <PropertyRef Name="NacinDostaveID" />
+      </Principal>
+      <Dependent Role="Narudzbe">
+        <PropertyRef Name="NacinDostaveID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Narudzbe__NacinP__31D75E8D">
+    <End Type="PEPBazaModel1.NacinPlacanja" Role="NacinPlacanja" Multiplicity="1" />
+    <End Type="PEPBazaModel1.Narudzbe" Role="Narudzbe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NacinPlacanja">
+        <PropertyRef Name="NacinPlacanjaID" />
+      </Principal>
+      <Dependent Role="Narudzbe">
+        <PropertyRef Name="NacinPlacanjaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ModeliProizvodi">
+    <Key>
+      <PropertyRef Name="ModeliProizvodiID" />
+    </Key>
+    <Property Name="ModeliProizvodiID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ModelID" Type="Int32" Nullable="false" />
+    <Property Name="ProizvodID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Modeli" Relationship="PEPBazaModel1.FK__ModeliPro__Model__3F3159AB" FromRole="ModeliProizvodi" ToRole="Modeli" />
+    <NavigationProperty Name="Proizvodi" Relationship="PEPBazaModel1.FK__ModeliPro__Proiz__40257DE4" FromRole="ModeliProizvodi" ToRole="Proizvodi" />
+  </EntityType>
+  <Association Name="FK__ModeliPro__Model__3F3159AB">
+    <End Type="PEPBazaModel1.Modeli" Role="Modeli" Multiplicity="1" />
+    <End Type="PEPBazaModel1.ModeliProizvodi" Role="ModeliProizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Modeli">
+        <PropertyRef Name="ModelID" />
+      </Principal>
+      <Dependent Role="ModeliProizvodi">
+        <PropertyRef Name="ModelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ModeliPro__Proiz__40257DE4">
+    <End Type="PEPBazaModel1.Proizvodi" Role="Proizvodi" Multiplicity="1" />
+    <End Type="PEPBazaModel1.ModeliProizvodi" Role="ModeliProizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Principal>
+      <Dependent Role="ModeliProizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="usp_Select_NajboljeOcijenjeniDizajner_Result">
+    <Property Type="Int32" Name="KorisnikID" Nullable="false" />
+    <Property Type="String" Name="Ime" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Prezime" Nullable="false" MaxLength="50" />
+    <Property Type="Decimal" Name="Broj" Nullable="true" Precision="16" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="usp_UserBased_Preporuka_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="Int32" Name="kolicina" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_UserBased2_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="Int32" Name="kolicina" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_ModeliByDizajnerID_Result">
+    <Property Type="Int32" Name="ModelID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="true" MaxLength="50" />
+    <Property Type="Binary" Name="Slika" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_StatistikaDizajner_Result">
+    <Property Type="Int32" Name="Year" Nullable="true" />
+    <Property Type="Int32" Name="Month" Nullable="true" />
+    <Property Type="Int32" Name="Broj" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_DostupneVelicine_Result">
+    <Property Type="Int32" Name="VelicinaID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="usp_ProizvodiIzFavourite_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sifra" Nullable="false" MaxLength="20" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="Int32" Name="VrstaID" Nullable="false" />
+    <Property Type="Binary" Name="Slika" Nullable="true" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+    <Property Type="Boolean" Name="Status" Nullable="false" />
+    <Property Type="Int32" Name="SezonaID" Nullable="false" />
+    <Property Type="Int32" Name="KorisnikID" Nullable="false" />
+    <Property Type="Int32" Name="VelicinaID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="usp_KatalogSelect_Result">
+    <Property Type="Int32" Name="ProizvodID" Nullable="false" />
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Sifra" Nullable="false" MaxLength="20" />
+    <Property Type="Decimal" Name="Cijena" Nullable="false" Precision="5" Scale="2" />
+    <Property Type="Int32" Name="VrstaID" Nullable="false" />
+    <Property Type="Binary" Name="Slika" Nullable="true" />
+    <Property Type="Binary" Name="SlikaThumb" Nullable="true" />
+    <Property Type="Boolean" Name="Status" Nullable="false" />
+    <Property Type="Int32" Name="SezonaID" Nullable="false" />
+    <Property Type="Int32" Name="KorisnikID" Nullable="false" />
+    <Property Type="Int32" Name="VelicinaID" Nullable="false" />
+    <Property Type="DateTime" Name="Datum" Nullable="false" Precision="23" />
+    <Property Type="String" Name="NazivKataloga" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="usp_StatistikaZarada_Result">
+    <Property Type="Int32" Name="Month" Nullable="true" />
+    <Property Type="Decimal" Name="Zarada" Nullable="true" Precision="38" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="usp_KolicinaProdanihByVrsta_Result">
+    <Property Type="String" Name="Naziv" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="Kolicina" Nullable="true" />
+  </ComplexType>
+</Schema>

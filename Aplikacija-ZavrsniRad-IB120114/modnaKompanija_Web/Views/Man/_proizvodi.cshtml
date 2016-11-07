@@ -1,0 +1,101 @@
+﻿@model  modnaKompanija_Web.Controllers.ManController.IndexVM
+@{Layout = null;}
+
+
+
+    <div id="div5">
+        <div class="row products">
+            @foreach (PEPmodnaKompanija_API.Models.Proizvodi x in Model.proizvodi)
+            {
+
+
+                <div class="col-md-4 col-sm-6">
+
+                    <div class="product">
+
+                        <div class="flip-container">
+
+                            <div class="flipper">
+                                @if (@x.Slika != null)
+                                {
+                                    string imageBase64 = Convert.ToBase64String(@x.Slika);
+                                    string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+                                    <div class="front">
+                                        <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">
+                                            <img src="@imageSrc" alt=" " class=" img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">
+                                            <img src="@imageSrc" alt=" " class=" img-responsive">
+                                        </a>
+                                    </div>
+                                }
+                            </div>
+
+                        </div>
+                        @if (@x.Slika != null)
+                        {
+                            string imageBase64 = Convert.ToBase64String(@x.Slika);
+                            string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+
+                            <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })" class="invisible">
+                                <img src="@imageSrc" alt="" class="img-responsive">
+                            </a>
+                        }
+                        <div class="text">
+                            <h3><a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">@x.Naziv</a></h3>
+                            <p class="price">@x.Cijena KM</p>
+                            <p class="buttons">
+                                <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })" class="btn btn-primary">Detalji</a>
+
+                                @if (GlobalHelp.prijavljeniKupac != null)
+                                {
+                                    if (Wishlist.Postoji(x.ProizvodID) == 1)
+                                    {
+                                        <a href="#" class="btn btn-default"><i class="fa fa-heart" style="color:red"></i> </a>
+                                    }
+                                    else
+                                    {
+
+                                        @*<button class="btn btn-default">   @Ajax.ActionLink(" ", "AddToList", "Wishlist", new { id = x.ProizvodID, vrstaID = x.VrstaID }, new AjaxOptions { UpdateTargetId = "div1" }, new { @class = "fa fa-heart" })</button>*@
+                                        <a class="btn btn-default" href="#" onclick="updateDivs(@x.ProizvodID, @x.VrstaID,0); return false;"><i class="fa fa-heart"></i></a>
+                                        <script type="text/javascript">
+                                            function updateDivs(data, data1, data2) {
+                                                $.ajax({
+                                                    url: '/Wishlist/AddToList',
+                                                    data: { id: data, vrstaID: data1, detalji: data2 }
+                                                }).done(function () {
+                                                    $("#div1").load("@Url.Action("VratiCount", "Wishlist")");
+                                                    $("#div5").load("@Url.Action("IndexW2", "Man", new { vrstaID = @x.VrstaID })");
+                                                    //alert(data);
+                                                });
+                                            };
+                                        </script>
+
+
+                                    }
+
+
+                                }
+
+
+
+                            </p>
+
+                        </div>
+                        <!-- /.text -->
+
+                        <!-- /.ribbon -->
+                    </div>
+                    <!-- /.product -->
+
+
+                </div>
+            }
+
+
+
+        </div>
+
+    </div>

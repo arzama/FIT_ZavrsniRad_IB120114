@@ -1,0 +1,103 @@
+﻿@model modnaKompanija_Web.Controllers.DetaljiProizvodaController.IndexVM
+
+
+
+
+<div id="all">
+
+    <div id="content">
+        <div class="container">
+
+        
+
+            <div class="col-md-3">
+                <!-- *** MENUS AND FILTERS ***
+                _________________________________________________________ -->
+
+
+                @Html.Action("GetNajOcijenjeneProizvode", "Preporuka")
+
+                <!-- *** MENUS AND FILTERS END *** -->
+
+              
+            </div>
+
+            <div class="col-md-9">
+
+                <div class="row" id="productMain">
+                    <div class="col-sm-6">
+
+                        <div id="mainImage">
+                            @if (Model.proizvodi.FirstOrDefault().Slika != null)
+                            {
+
+                                string imageBase64 = Convert.ToBase64String(Model.proizvodi.FirstOrDefault().Slika);
+                                string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+
+
+                                <img id="image1" src="@imageSrc" alt="" class="img-responsive">
+                            }
+
+
+
+                        </div>
+
+                   
+                        <!-- /.ribbon -->
+
+                    </div>
+
+                   
+                        @Html.Partial("_Glavni")
+                   
+
+
+
+
+
+
+                    </div>
+
+
+
+
+
+@*@Html.Partial("_Detalji")*@
+
+                @if(GlobalHelp.prijavljeniKupac!=null)
+                { 
+    <div class="row same-height-row">
+ 
+        @Html.Action("UserBased", "Preporuka", new { proizvodID = @Model.proizvodID })
+
+    </div>
+                }
+    <div class="row same-height-row">
+        <div class="col-md-3 col-sm-6">
+            <div class="box same-height">
+                <h3>Proizvodi dizajnera s najboljim ocjenama </h3>
+            </div>
+        </div>
+
+        @Html.Action("GetNajOcijenjenog", "Preporuka")
+
+  
+
+
+    </div>
+
+              
+
+</div>
+<!-- /.col-md-9 -->
+</div>
+<!-- /.container -->
+</div>
+</div>
+
+</div>
+<!-- /#content -->
+    @*dioooooodrugiiii*@
+
+
+

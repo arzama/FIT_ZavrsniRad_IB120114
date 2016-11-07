@@ -1,0 +1,82 @@
+﻿@model modnaKompanija_Web.Controllers.KatalogController.IndexVM
+
+<div id="all">
+
+    <div id="content">
+        <div class="container">
+
+            <div class="col-md-12">
+
+        
+                <div class="box">
+                   <h1 style="display:inline">Katalog <h2 style="display:inline">[@Model.Naziv]</h2></h1>
+               <br />
+                    <br /> <p class="lead"> @Model.Datum.ToString("dd/MM/yyy")</p>
+                </div>
+
+            
+
+                <div class="row products">
+
+@foreach(PEPmodnaKompanija_API.Models.KatalogProizvod x in Model.katalogProizvodi){
+                   foreach(PEPmodnaKompanija_API.Models.Proizvodi p in Model.proizvodi )
+                   { 
+                       if(x.ProizvodID==p.ProizvodID)
+                       {
+                           if (p.Slika != null) {
+                               string imageBase64 = Convert.ToBase64String(@p.Slika);
+                               string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+ 
+   
+  
+                    <div class="col-md-3 col-sm-4">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">
+                                            <img src="@imageSrc" alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">
+                                            <img src="@imageSrc" alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="detail.html" class="invisible">
+                                <img src="@imageSrc" alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h3><a href="detail.html">@p.Naziv</a></h3>
+                                <p class="price">@p.Cijena KM</p>
+                                <p class="buttons">
+                                    <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = p.ProizvodID })" class="btn btn-default">Vidi detalje</a>
+                                   
+                                </p>
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+}
+}
+}
+}
+            
+             
+
+
+
+            </div>
+
+
+
+
+
+
+
+            </div>
+    </div>
+</div>

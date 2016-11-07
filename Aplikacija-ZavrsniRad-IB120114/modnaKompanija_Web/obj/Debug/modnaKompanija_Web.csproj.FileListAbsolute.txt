@@ -1,0 +1,789 @@
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- - Copy\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v2- -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v3- Man_Slike-\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V11-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V12-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\PagedList.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\PagedList.Mvc.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\PagedList.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\PagedList.Mvc.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\PagedList.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\PagedList.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\PagedList.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\PagedList.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V13-Novi temp -Scrolling\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\PagedList.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\PagedList.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\PagedList.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\PagedList.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\PagedList.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\PagedList.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\PagedList.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\PagedList.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\PagedList.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\PagedList.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\PagedList.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\PagedList.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\PagedList.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\PagedList.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\PagedList.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\PagedList.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\PagedList.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\PagedList.Mvc.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\PagedList.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\PagedList.Mvc.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\modnaKompanija_Web.dll.config
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\modnaKompanija_Web.pdb
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\EntityFramework.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\PagedList.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\PagedList.Mvc.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Helpers.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Razor.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Http.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\WebGrease.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\Antlr3.Runtime.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\EntityFramework.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\PagedList.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\PagedList.Mvc.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Razor.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Helpers.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Http.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\modnaKompanija_Web\obj\Debug\modnaKompanija_Web.pdb

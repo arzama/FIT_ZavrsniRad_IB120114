@@ -1,0 +1,2 @@
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\PEPmodnaKompanija_Mobile.csproj;neutral
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_PCL\PEPmodnaKompanija_PCL.csproj;neutral

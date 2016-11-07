@@ -1,0 +1,237 @@
+﻿<!-- *** TOPBAR ***
+_________________________________________________________ -->
+<div id="top">
+    <div class="container">
+        <div class="col-md-6 offer" data-animate="fadeInDown">
+            <a href="#" class="btn btn-success btn-sm" data-animate-hover="shake">Posebna ponuda</a>  <a href="#">Popust od 35% na narudžbe iznad 100KM!</a>
+        </div>
+        <div class="col-md-6" data-animate="fadeInDown">
+            <ul class="menu">
+                @if (GlobalHelp.prijavljeniKupac == null) { 
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#login-modal">Prijava</a>
+                </li>
+                <li>
+                    <a href="~/Login/RegistracijaUredi">Registracija</a>
+                </li>
+                }
+                @if (GlobalHelp.prijavljeniKupac != null)
+                {
+                    <li>
+                        <a href="#">@GlobalHelp.prijavljeniKupac.Ime @GlobalHelp.prijavljeniKupac.Prezime </a>
+                    </li>
+                    <li>
+                        <a href="~/Login/Logout">Odjava</a>
+                    </li>
+
+                }
+                <li>
+                    <a href="~/Kontakt/Index">Kontakt</a>
+                </li>
+              
+            </ul>
+        </div>
+    </div>
+    <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="Login" aria-hidden="true">
+        <div class="modal-dialog modal-sm">
+
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title" id="Login">Prijava korisnika</h4>
+                </div>
+                <div class="modal-body">
+                    @*<form action="/Login/Provjera" method="post">*@
+                   @using (Html.BeginForm("Provjera", "Login"))
+{
+                        <div class="form-group">
+                            @*<input type="text" class="form-control" id="username" placeholder="korisničko ime">*@
+                            <input class="form-control text-box single-line" tabindex="4" required="" autofocus="" id="username" name="username" type="text" value="" placeholder="korisničko ime " />
+                            <span class="field-validation-valid text-danger" data-valmsg-for="username" data-valmsg-replace="true"></span>
+
+                        </div>
+                        <div class="form-group">
+                            @*<input type="password" class="form-control" id="password" placeholder="lozinka">*@
+                            <input class="form-control text-box single-line" tabindex="5" required="" autofocus="" id="password" name="password" type="password" value="" placeholder="lozinka " />
+                            <span class="field-validation-valid text-danger" data-valmsg-for="password" data-valmsg-replace="true"></span>
+
+                        </div>
+
+                        <p class="text-center">
+                            <button class="btn btn-primary"><i class="fa fa-sign-in"></i> Prijavi se</button>
+                        </p>
+                        
+
+                   }
+
+                    <p class="text-center text-muted">Još niste registrovani?</p>
+                    <p class="text-center text-muted"><a href="~/Login/RegistracijaUredi"><strong>Registrujete se sada!</strong></a>! Lahko je i gotovo za 1&nbsp;minut i imat ćete dodatne pogodnosti !</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- *** TOP BAR END *** -->
+<!-- *** NAVBAR ***
+_________________________________________________________ -->
+
+<div class="navbar navbar-default yamm" role="navigation" id="navbar">
+    <div class="container">
+        <div class="navbar-header">
+
+            <a class="navbar-brand home" href="/Pocetna/Index" data-animate-hover="bounce">
+                <img src="~/Template3/img/loglog.png" alt="Obaju logo" class="hidden-xs">
+                <img src="~/Template3/img/loglog.png" alt="Obaju logo" class="visible-xs"><span class="sr-only">Obaju - go to homepage</span>
+            </a>
+            <div class="navbar-buttons">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation">
+                    <span class="sr-only">Toggle navigation</span>
+                    <i class="fa fa-align-justify"></i>
+                </button>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#search">
+                    <span class="sr-only">Toggle search</span>
+                    <i class="fa fa-search"></i>
+                </button>
+                <a class="btn btn-default navbar-toggle" href="basket.html">
+                    <i class="fa fa-shopping-cart"></i>  <span class="hidden-xs">@Korpa.GetCount() proizvoda</span>
+                </a>
+                <a class="btn btn-default navbar-toggle" href="basket.html">
+                    <i class="fa fa-heart"></i>  <span class="hidden-xs">@Wishlist.GetCount() proizvoda</span>
+                </a>
+            </div>
+        </div>
+        <!--/.navbar-header -->
+
+        <div class="navbar-collapse collapse" id="navigation">
+
+            <ul class="nav navbar-nav navbar-left">
+                <li class="active">
+                    <a href="/Pocetna/Index">Home</a>
+                </li>
+                <li >
+               
+                @*@Ajax.ActionLink("Man", "Index", "Man", new { vrstaID = 1 }, new AjaxOptions { UpdateTargetId = "all" })*@
+
+            
+                    <a href="@Url.Action("Index", "Man", new { vrstaID = 1})">Muškarci </a>
+                 
+                </li>
+                <li>
+                    @*@Ajax.ActionLink("Ladies", "Index", "Man", new { vrstaID = 2 }, new AjaxOptions { UpdateTargetId = "all" })*@
+                    <a href="@Url.Action("Index", "Man", new { vrstaID = 2 })">Žene </a>
+
+                </li>
+                <li>
+                    @*@Ajax.ActionLink("Kids", "Index", "Man", new { vrstaID = 3 }, new AjaxOptions { UpdateTargetId = "all" })*@
+                    <a href="@Url.Action("Index", "Man", new { vrstaID = 3 })">Djeca </a>
+                  
+                </li>
+                <li>
+                    <a href="/Lookbook/Index">Lookbook</a>
+                </li>
+                <li>
+                    <a href="/Katalog/Index">Katalog</a>
+                </li>
+               @if (GlobalHelp.prijavljeniKupac != null) { 
+                <li class="dropdown yamm-fw">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="200">Profil <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="row">
+                                    <div class="col-sm-3">
+
+                                        <ul>
+                                            <li>
+                                                <a href="~/HistorijaNarudzbi/Index">Historija narudžbi</a>
+                                            </li>
+                                            <li>
+                                                <a href="~/Wishlist/Index">Lista želja</a>
+                                            </li>
+                                            <li>
+                                                <a href="~/Profil/Index">Uredi profil</a>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                        </li>
+                    </ul>
+                    </li>
+               }
+     
+            </ul>
+
+        </div>
+        <!--/.nav-collapse -->
+     
+        <div class="navbar-buttons">
+            @if (GlobalHelp.prijavljeniKupac != null) { 
+            @*<div class="navbar-collapse collapse right" id="basket-overview">
+                <a href="~/Korpa/Index" class="btn btn-primary navbar-btn"><i class="fa fa-shopping-cart"></i><span class="hidden-sm">@Korpa.GetCount() proizvoda</span></a>
+            </div>*@
+         
+  
+        @Html.Partial("_Count")
+    
+
+            }
+            
+            @if (GlobalHelp.prijavljeniKupac == null)
+            {
+
+                <div class="navbar-collapse collapse right" id="basket-overview">
+                    <a href="~/Login/RegistracijaUredi" class="btn btn-primary navbar-btn"><i class="fa fa-shopping-cart"></i><span class="hidden-sm">@Korpa.GetCount() proizvoda</span></a>
+                </div>
+    <div id="div">
+        <div class="navbar-collapse collapse right" id="wishlist">
+            <a href="~/Login/RegistracijaUredi" class="btn btn-primary navbar-btn"><i class="fa fa-heart"></i><span class="hidden-sm">@Wishlist.GetCount() proizvoda</span></a>
+        </div>
+    </div>
+            }
+            <!--/.nav-collapse -->
+
+            @*<div class="navbar-collapse collapse right" id="search-not-mobile">
+                <button type="button" class="btn navbar-btn btn-primary" data-toggle="collapse" data-target="#search">
+                    <span class="sr-only">Toggle search</span>
+                    <i class="fa fa-search"></i>
+                </button>
+            </div>*@
+
+        </div>
+
+        @*<div class="collapse clearfix" id="search">
+
+            <form class="navbar-form" role="search">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search">
+                    <span class="input-group-btn">
+
+                        <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+
+                    </span>
+                </div>
+            </form>
+
+        </div>*@
+        <!--/.nav-collapse -->
+
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /#navbar -->
+<!-- *** NAVBAR END *** -->
+
+@*<div id="man">@Html.Action("Index","Man", new { vrstaID = 1 })</div>*@
+
+<div id="man">
+
+</div>
+<div id="man1"></div>

@@ -1,0 +1,31 @@
+﻿@model  modnaKompanija_Web.Controllers.PreporukaController.NajOcijenjeniVM
+
+<div class="panel panel-default sidebar-menu">
+
+        <div class="panel-heading">
+            <h3 class="panel-title">Preporučujemo </h3>
+        </div>
+
+        <div class="panel-body">
+@foreach (PEPmodnaKompanija_API.Models.usp_najboljeOcijenjeniProizvodi_Result item in Model.najOcijenjeni)
+{
+    foreach (PEPmodnaKompanija_API.Models.Proizvodi x in Model.sviProizvodi)
+    {
+        if (item.ProizvodID == x.ProizvodID)
+        {
+            if (@x.Slika != null)
+                                        {
+                                            string imageBase64 = Convert.ToBase64String(@x.Slika);
+                                            string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+            <div class="banner">
+                <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">
+                    <img src="@imageSrc" alt="sales 2014" class="img-responsive">
+                </a>
+            </div>
+            }
+        }
+    }
+}
+
+        </div>
+    </div>

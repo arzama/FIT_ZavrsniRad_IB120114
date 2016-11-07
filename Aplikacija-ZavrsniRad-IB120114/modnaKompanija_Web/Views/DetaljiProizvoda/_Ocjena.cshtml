@@ -1,0 +1,167 @@
+﻿@model modnaKompanija_Web.Controllers.DetaljiProizvodaController.IndexVM
+
+
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<div id="ocjenaProizvoda">
+ 
+    <p class="text-center">Prosječna ocjena: @GlobalHelp.prosjecnaOcjenaProizvoda(Model.proizvodID)  </p>
+    
+    @if (GlobalHelp.prijavljeniKupac != null && GlobalHelp.GetOcjena(@Model.proizvodi.FirstOrDefault().Id) != 0)
+    {
+
+
+
+        <div class="text-center buttons">
+            <div class="stars" style="padding:20px 20px 0px 20px">
+                @if (GlobalHelp.GetOcjena(@Model.proizvodi.FirstOrDefault().Id) == 1)
+
+                { 
+                    <input class="star star-5" id="star-5" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-5" for="star-5"></label>
+                    <input class="star star-4" id="star-4" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-4" for="star-4"></label>
+                    <input class="star star-3" id="star-3" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-3" for="star-3"></label>
+                    <input class="star star-2" id="star-2" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-2" for="star-2"></label>
+                    <input class="star star-1" id="star-1" type="radio" name="star" checked="checked" disabled="disabled" />
+                    <label class="star star-1" for="star-1"></label>
+                }
+                @if (GlobalHelp.GetOcjena(@Model.proizvodi.FirstOrDefault().Id) == 2)
+                {
+                    <input class="star star-5" id="star-5" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-5" for="star-5"></label>
+                    <input class="star star-4" id="star-4" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-4" for="star-4"></label>
+                    <input class="star star-3" id="star-3" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-3" for="star-3"></label>
+                    <input class="star star-2" id="star-2" type="radio" name="star" checked="checked" disabled="disabled" />
+                    <label class="star star-2" for="star-2"></label>
+                    <input class="star star-1" id="star-1" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-1" for="star-1"></label>
+                }
+                @if (GlobalHelp.GetOcjena(@Model.proizvodi.FirstOrDefault().Id) == 3)
+                {
+                    <input class="star star-5" id="star-5" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-5" for="star-5"></label>
+                    <input class="star star-4" id="star-4" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-4" for="star-4"></label>
+                    <input class="star star-3" id="star-3" type="radio" name="star" checked="checked" disabled="disabled" />
+                    <label class="star star-3" for="star-3"></label>
+                    <input class="star star-2" id="star-2" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-2" for="star-2"></label>
+                    <input class="star star-1" id="star-1" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-1" for="star-1"></label>
+                }
+                @if (GlobalHelp.GetOcjena(@Model.proizvodi.FirstOrDefault().Id) == 4)
+                {
+                    <input class="star star-5" id="star-5" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-5" for="star-5"></label>
+                    <input class="star star-4" id="star-4" type="radio" name="star" checked="checked" disabled="disabled" />
+                    <label class="star star-4" for="star-4"></label>
+                    <input class="star star-3" id="star-3" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-3" for="star-3"></label>
+                    <input class="star star-2" id="star-2" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-2" for="star-2"></label>
+                    <input class="star star-1" id="star-1" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-1" for="star-1"></label>
+                }
+                @if (GlobalHelp.GetOcjena(@Model.proizvodi.FirstOrDefault().Id) == 5)
+                {
+                    <input class="star star-5" id="star-5" type="radio" name="star" checked="checked" disabled="disabled" />
+                    <label class="star star-5" for="star-5"></label>
+                    <input class="star star-4" id="star-4" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-4" for="star-4"></label>
+                    <input class="star star-3" id="star-3" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-3" for="star-3"></label>
+                    <input class="star star-2" id="star-2" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-2" for="star-2"></label>
+                    <input class="star star-1" id="star-1" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-1" for="star-1"></label>
+                }
+
+
+            </div>
+
+        </div>
+   
+
+
+    }
+    @if (GlobalHelp.prijavljeniKupac != null && GlobalHelp.GetOcjena(@Model.proizvodID) == 0 && GlobalHelp.VecKupljen(@Model.proizvodID)!=false)
+    {
+
+
+
+        <p>
+            @if (ViewBag.Uspjesno == 3)
+            {
+
+                <div class="alert alert-danger alert-dismissable">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                    Da biste ocijenili morate odabrati zvjezdicu !
+
+                </div>
+            }
+        </p>
+        <p>
+            @if (ViewBag.Uspjesno == 4)
+            {
+
+                <div class="alert alert-success alert-dismissable">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                    Hvala Vam. Uspješno ste ocijenili proizvod.
+
+                </div>
+            }
+        </p>
+
+        if (ViewBag.Uspjesno != 4)
+        {
+          
+            <div class="text-center buttons">
+                <div class="stars" style="padding:20px">
+                    <form action="/DetaljiProizvoda/OcjenaSnimi" method="post">
+                        @Html.HiddenFor(x => x.proizvodID)
+                        <input class="star star-5" id="star-5" type="radio" name="OcjenaINT" onclick="updateDiv(@Model.proizvodID,5)" />
+                        <label class="star star-5" for="star-5" title="Odlično !"></label>
+                        <input class="star star-4" id="star-4" type="radio" name="OcjenaINT" onclick="updateDiv(@Model.proizvodID,4)" />
+                        <label class="star star-4" for="star-4" title="Vrlo dobro"></label>
+                        <input class="star star-3" id="star-3" type="radio" name="OcjenaINT" onclick="updateDiv(@Model.proizvodID,3)" />
+                        <label class="star star-3" for="star-3" title="Dobro"></label>
+                        <input class="star star-2" id="star-2" type="radio" name="OcjenaINT" onclick="updateDiv(@Model.proizvodID,2)" />
+                        <label class="star star-2" for="star-2" title="Loše"></label>
+                        <input class="star star-1" id="star-1" type="radio" name="OcjenaINT" onclick="updateDiv(@Model.proizvodID,1)" />
+                        <label class="star star-1" for="star-1" title="Jako loše"></label>
+                    </form>
+                </div>
+            </div>
+
+            <script type="text/javascript">
+
+                            function updateDiv(data1, data2) {
+
+                                $.ajax({
+                                    url: '/DetaljiProizvoda/OcjenaSnimi',
+                                    data: { Id: data1, OcjenaINT: data2 }
+
+
+                                }).done(function () {
+
+                                    $("#ocjenaProizvoda").load("@Url.Action("IndexOcjena", "DetaljiProizvoda", new { proizvodID = @Model.proizvodID, ok = 6 })");
+
+                                });
+
+
+                            };
+
+
+
+            </script>
+
+
+
+        }
+
+    }
+</div>

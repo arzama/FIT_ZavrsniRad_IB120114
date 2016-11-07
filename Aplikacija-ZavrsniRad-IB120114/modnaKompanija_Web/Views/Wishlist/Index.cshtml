@@ -1,0 +1,76 @@
+﻿
+@model  modnaKompanija_Web.Controllers.WishlistController.IndexVM
+
+
+    <div id="all">
+
+        <div id="content">
+            <div class="container">
+               
+
+
+                <div class="col-md-3">
+                    <!-- *** CUSTOMER MENU ***
+                    _________________________________________________________ -->
+                    <div class="panel panel-default sidebar-menu">
+
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Profil</h3>
+                        </div>
+
+                        <div class="panel-body">
+
+                            <ul class="nav nav-pills nav-stacked">
+                                <li class="active">
+                                    <a href="~/HistorijaNarudzbi/Index"><i class="fa fa-list"></i> Historija narudžbi</a>
+                                </li>
+                                <li>
+                                    <a href="~/Wishlist/Index"><i class="fa fa-heart"></i>Lista želja</a>
+                                </li>
+                                <li>
+                                    <a href="~/Profil/Index"><i class="fa fa-user"></i> Uredi profil</a>
+                                </li>
+                                <li>
+                                    <a href="~/Login/Logout"><i class="fa fa-sign-out"></i> Logout</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                    </div>
+                    <!-- /.col-md-3 -->
+                    <!-- *** CUSTOMER MENU END *** -->
+                </div>
+
+
+                <div class="col-md-9" id="wishlist">
+
+
+                        <div class="box">
+                            <h1>Moja lista želja </h1>
+         
+                        </div>
+                    <div style="overflow-y: auto ; overflow-x: hidden;max-height: 800px; width: 100%;">
+                        @Html.Partial("ManPart")
+                       </div>
+                    <br />
+                    <br />
+
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- /.container -->
+        </div>
+
+
+     
+
+
+
+
+
+
+
+
+

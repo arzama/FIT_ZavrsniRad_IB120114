@@ -1,0 +1,697 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PEPBazaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Dobavljaci">
+    <Key>
+      <PropertyRef Name="DobavljacID" />
+    </Key>
+    <Property Name="DobavljacID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="KontaktOsoba" Type="nvarchar" MaxLength="100" />
+    <Property Name="Adresa" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Telefon" Type="nvarchar" MaxLength="25" Nullable="false" />
+    <Property Name="Fax" Type="nvarchar" MaxLength="25" />
+    <Property Name="Web" Type="nvarchar" MaxLength="100" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="ZiroRacuni" Type="nvarchar" MaxLength="255" />
+    <Property Name="Napomena" Type="nvarchar" MaxLength="500" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Izlazi">
+    <Key>
+      <PropertyRef Name="IzlazID" />
+    </Key>
+    <Property Name="IzlazID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BrojRacuna" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Datum" Type="datetime" Nullable="false" />
+    <Property Name="KorisnikID" Type="int" Nullable="false" />
+    <Property Name="Zakljucen" Type="bit" Nullable="false" />
+    <Property Name="IznosBezPDV" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="IznosSaPDV" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="NarudzbaID" Type="int" />
+    <Property Name="SkladisteID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IzlazStavke">
+    <Key>
+      <PropertyRef Name="IzlazStavkaID" />
+    </Key>
+    <Property Name="IzlazStavkaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IzlazID" Type="int" Nullable="false" />
+    <Property Name="ProizvodID" Type="int" Nullable="false" />
+    <Property Name="Kolicina" Type="int" Nullable="false" />
+    <Property Name="Cijena" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Popust" Type="decimal" Precision="5" Scale="2" />
+  </EntityType>
+  <EntityType Name="Korisnici">
+    <Key>
+      <PropertyRef Name="KorisnikID" />
+    </Key>
+    <Property Name="KorisnikID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Prezime" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Telefon" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="KorisnickoIme" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LozinkaHash" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LozinkaSalt" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+    <Property Name="UlogaID" Type="int" />
+  </EntityType>
+  <EntityType Name="Kupci">
+    <Key>
+      <PropertyRef Name="KupacID" />
+    </Key>
+    <Property Name="KupacID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Prezime" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DatumRegistracije" Type="datetime" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="KorisnickoIme" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LozinkaHash" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LozinkaSalt" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LookBook">
+    <Key>
+      <PropertyRef Name="LookBookID" />
+    </Key>
+    <Property Name="LookBookID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Datum" Type="datetime" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="KorisnikID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Modeli">
+    <Key>
+      <PropertyRef Name="ModelID" />
+    </Key>
+    <Property Name="ModelID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Slika" Type="varbinary(max)" />
+    <Property Name="SlikaThumb" Type="varbinary(max)" />
+    <Property Name="Opis" Type="nvarchar" MaxLength="200" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="50" />
+    <Property Name="RevijaID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ModelLookBook">
+    <Key>
+      <PropertyRef Name="ModelLookBookID" />
+    </Key>
+    <Property Name="ModelLookBookID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ModelID" Type="int" Nullable="false" />
+    <Property Name="LookBookID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NarudzbaStavke">
+    <Key>
+      <PropertyRef Name="NarudzbaStavkaID" />
+    </Key>
+    <Property Name="NarudzbaStavkaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NarudzbaID" Type="int" Nullable="false" />
+    <Property Name="ProizvodID" Type="int" Nullable="false" />
+    <Property Name="Kolicina" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Narudzbe">
+    <Key>
+      <PropertyRef Name="NarudzbaID" />
+    </Key>
+    <Property Name="NarudzbaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BrojNarudzbe" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="KupacID" Type="int" Nullable="false" />
+    <Property Name="Datum" Type="datetime" Nullable="false" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+    <Property Name="Otkazano" Type="bit" />
+  </EntityType>
+  <EntityType Name="Ocjene">
+    <Key>
+      <PropertyRef Name="OcjenaID" />
+    </Key>
+    <Property Name="OcjenaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProizvodID" Type="int" Nullable="false" />
+    <Property Name="KupacID" Type="int" Nullable="false" />
+    <Property Name="Datum" Type="datetime" Nullable="false" />
+    <Property Name="Ocjena" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Proizvodi">
+    <Key>
+      <PropertyRef Name="ProizvodID" />
+    </Key>
+    <Property Name="ProizvodID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sifra" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Cijena" Type="decimal" Precision="5" Scale="2" Nullable="false" />
+    <Property Name="VrstaID" Type="int" Nullable="false" />
+    <Property Name="Slika" Type="varbinary(max)" />
+    <Property Name="SlikaThumb" Type="varbinary(max)" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+    <Property Name="SezonaID" Type="int" Nullable="false" />
+    <Property Name="KorisnikID" Type="int" Nullable="false" />
+    <Property Name="ModelID" Type="int" />
+  </EntityType>
+  <EntityType Name="Revije">
+    <Key>
+      <PropertyRef Name="RevijaID" />
+    </Key>
+    <Property Name="RevijaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Datum" Type="datetime" Nullable="false" />
+    <Property Name="KorisnikID" Type="int" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Napomena" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Sezone">
+    <Key>
+      <PropertyRef Name="SezonaID" />
+    </Key>
+    <Property Name="SezonaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Skladista">
+    <Key>
+      <PropertyRef Name="SkladisteID" />
+    </Key>
+    <Property Name="SkladisteID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Adresa" Type="nvarchar" MaxLength="150" />
+    <Property Name="Opis" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Ulazi">
+    <Key>
+      <PropertyRef Name="UlazID" />
+    </Key>
+    <Property Name="UlazID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BrojFakture" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Datum" Type="datetime" Nullable="false" />
+    <Property Name="IznosRacuna" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="PDV" Type="numeric" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Napomena" Type="nvarchar" MaxLength="500" />
+    <Property Name="SkladisteID" Type="int" Nullable="false" />
+    <Property Name="KorisnikID" Type="int" Nullable="false" />
+    <Property Name="DobavljacID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UlazStavke">
+    <Key>
+      <PropertyRef Name="UlazStavkaID" />
+    </Key>
+    <Property Name="UlazStavkaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UlazID" Type="int" Nullable="false" />
+    <Property Name="ProizvodID" Type="int" Nullable="false" />
+    <Property Name="Kolicina" Type="int" Nullable="false" />
+    <Property Name="Cijena" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Uloge">
+    <Key>
+      <PropertyRef Name="UlogaID" />
+    </Key>
+    <Property Name="UlogaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Opis" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="VrsteProizvoda">
+    <Key>
+      <PropertyRef Name="VrstaID" />
+    </Key>
+    <Property Name="VrstaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Izlazi__Korisnik__2A4B4B5E">
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="1" />
+    <End Role="Izlazi" Type="Self.Izlazi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="Izlazi">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Izlazi__Narudzba__2B3F6F97">
+    <End Role="Narudzbe" Type="Self.Narudzbe" Multiplicity="0..1" />
+    <End Role="Izlazi" Type="Self.Izlazi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Narudzbe">
+        <PropertyRef Name="NarudzbaID" />
+      </Principal>
+      <Dependent Role="Izlazi">
+        <PropertyRef Name="NarudzbaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Izlazi__Skladist__2C3393D0">
+    <End Role="Skladista" Type="Self.Skladista" Multiplicity="1" />
+    <End Role="Izlazi" Type="Self.Izlazi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Skladista">
+        <PropertyRef Name="SkladisteID" />
+      </Principal>
+      <Dependent Role="Izlazi">
+        <PropertyRef Name="SkladisteID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__IzlazStav__Izlaz__2F10007B">
+    <End Role="Izlazi" Type="Self.Izlazi" Multiplicity="1" />
+    <End Role="IzlazStavke" Type="Self.IzlazStavke" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Izlazi">
+        <PropertyRef Name="IzlazID" />
+      </Principal>
+      <Dependent Role="IzlazStavke">
+        <PropertyRef Name="IzlazID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Korisnici__Uloga__2739D489">
+    <End Role="Uloge" Type="Self.Uloge" Multiplicity="0..1" />
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uloge">
+        <PropertyRef Name="UlogaID" />
+      </Principal>
+      <Dependent Role="Korisnici">
+        <PropertyRef Name="UlogaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LookBook__Korisn__681373AD">
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="1" />
+    <End Role="LookBook" Type="Self.LookBook" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="LookBook">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Modeli__RevijaID__6442E2C9">
+    <End Role="Revije" Type="Self.Revije" Multiplicity="1" />
+    <End Role="Modeli" Type="Self.Modeli" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Revije">
+        <PropertyRef Name="RevijaID" />
+      </Principal>
+      <Dependent Role="Modeli">
+        <PropertyRef Name="RevijaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ModelLook__LookB__6BE40491">
+    <End Role="LookBook" Type="Self.LookBook" Multiplicity="1" />
+    <End Role="ModelLookBook" Type="Self.ModelLookBook" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LookBook">
+        <PropertyRef Name="LookBookID" />
+      </Principal>
+      <Dependent Role="ModelLookBook">
+        <PropertyRef Name="LookBookID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ModelLook__Model__6AEFE058">
+    <End Role="Modeli" Type="Self.Modeli" Multiplicity="1" />
+    <End Role="ModelLookBook" Type="Self.ModelLookBook" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Modeli">
+        <PropertyRef Name="ModelID" />
+      </Principal>
+      <Dependent Role="ModelLookBook">
+        <PropertyRef Name="ModelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NarudzbaS__Narud__267ABA7A">
+    <End Role="Narudzbe" Type="Self.Narudzbe" Multiplicity="1" />
+    <End Role="NarudzbaStavke" Type="Self.NarudzbaStavke" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Narudzbe">
+        <PropertyRef Name="NarudzbaID" />
+      </Principal>
+      <Dependent Role="NarudzbaStavke">
+        <PropertyRef Name="NarudzbaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NarudzbaS__Proiz__276EDEB3">
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="1" />
+    <End Role="NarudzbaStavke" Type="Self.NarudzbaStavke" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Principal>
+      <Dependent Role="NarudzbaStavke">
+        <PropertyRef Name="ProizvodID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Narudzbe__KupacI__239E4DCF">
+    <End Role="Kupci" Type="Self.Kupci" Multiplicity="1" />
+    <End Role="Narudzbe" Type="Self.Narudzbe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kupci">
+        <PropertyRef Name="KupacID" />
+      </Principal>
+      <Dependent Role="Narudzbe">
+        <PropertyRef Name="KupacID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ocjene__KupacID__32E0915F">
+    <End Role="Kupci" Type="Self.Kupci" Multiplicity="1" />
+    <End Role="Ocjene" Type="Self.Ocjene" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kupci">
+        <PropertyRef Name="KupacID" />
+      </Principal>
+      <Dependent Role="Ocjene">
+        <PropertyRef Name="KupacID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ocjene__Proizvod__31EC6D26">
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="1" />
+    <End Role="Ocjene" Type="Self.Ocjene" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Principal>
+      <Dependent Role="Ocjene">
+        <PropertyRef Name="ProizvodID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Proizvodi__Koris__01142BA1">
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="1" />
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="Proizvodi">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Proizvodi__Model__14270015">
+    <End Role="Modeli" Type="Self.Modeli" Multiplicity="0..1" />
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Modeli">
+        <PropertyRef Name="ModelID" />
+      </Principal>
+      <Dependent Role="Proizvodi">
+        <PropertyRef Name="ModelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Proizvodi__Sezon__6FE99F9F">
+    <End Role="Sezone" Type="Self.Sezone" Multiplicity="1" />
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sezone">
+        <PropertyRef Name="SezonaID" />
+      </Principal>
+      <Dependent Role="Proizvodi">
+        <PropertyRef Name="SezonaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Proizvodi__Vrsta__1BFD2C07">
+    <End Role="VrsteProizvoda" Type="Self.VrsteProizvoda" Multiplicity="1" />
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VrsteProizvoda">
+        <PropertyRef Name="VrstaID" />
+      </Principal>
+      <Dependent Role="Proizvodi">
+        <PropertyRef Name="VrstaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Revije__Korisnik__03F0984C">
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="1" />
+    <End Role="Revije" Type="Self.Revije" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="Revije">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ulazi__Dobavljac__3E52440B">
+    <End Role="Dobavljaci" Type="Self.Dobavljaci" Multiplicity="1" />
+    <End Role="Ulazi" Type="Self.Ulazi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Dobavljaci">
+        <PropertyRef Name="DobavljacID" />
+      </Principal>
+      <Dependent Role="Ulazi">
+        <PropertyRef Name="DobavljacID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ulazi__KorisnikI__3D5E1FD2">
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="1" />
+    <End Role="Ulazi" Type="Self.Ulazi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Korisnici">
+        <PropertyRef Name="KorisnikID" />
+      </Principal>
+      <Dependent Role="Ulazi">
+        <PropertyRef Name="KorisnikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ulazi__Skladiste__3C69FB99">
+    <End Role="Skladista" Type="Self.Skladista" Multiplicity="1" />
+    <End Role="Ulazi" Type="Self.Ulazi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Skladista">
+        <PropertyRef Name="SkladisteID" />
+      </Principal>
+      <Dependent Role="Ulazi">
+        <PropertyRef Name="SkladisteID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UlazStavk__Proiz__4222D4EF">
+    <End Role="Proizvodi" Type="Self.Proizvodi" Multiplicity="1" />
+    <End Role="UlazStavke" Type="Self.UlazStavke" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proizvodi">
+        <PropertyRef Name="ProizvodID" />
+      </Principal>
+      <Dependent Role="UlazStavke">
+        <PropertyRef Name="ProizvodID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UlazStavk__UlazI__412EB0B6">
+    <End Role="Ulazi" Type="Self.Ulazi" Multiplicity="1" />
+    <End Role="UlazStavke" Type="Self.UlazStavke" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ulazi">
+        <PropertyRef Name="UlazID" />
+      </Principal>
+      <Dependent Role="UlazStavke">
+        <PropertyRef Name="UlazID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="usp_AllRevije" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="usp_Korisnici_Insert" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Ime" Type="nvarchar" Mode="In" />
+    <Parameter Name="Prezime" Type="nvarchar" Mode="In" />
+    <Parameter Name="Email" Type="nvarchar" Mode="In" />
+    <Parameter Name="Telefon" Type="nvarchar" Mode="In" />
+    <Parameter Name="KorisnickoIme" Type="nvarchar" Mode="In" />
+    <Parameter Name="LozinkaSalt" Type="nvarchar" Mode="In" />
+    <Parameter Name="LozinkaHash" Type="nvarchar" Mode="In" />
+    <Parameter Name="Status" Type="bit" Mode="In" />
+    <Parameter Name="UlogaID" Type="int" Mode="In" />
+  </Function>
+  <Function Name="usp_Korisnici_SelectByImePrezime" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="ImePrezime" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="usp_LastModelID" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="usp_Modeli" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="usp_Proizvodi_Insert" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Naziv" Type="nvarchar" Mode="In" />
+    <Parameter Name="Sifra" Type="nvarchar" Mode="In" />
+    <Parameter Name="Cijena" Type="decimal" Mode="In" />
+    <Parameter Name="VrstaID" Type="int" Mode="In" />
+    <Parameter Name="Slika" Type="varbinary(max)" Mode="In" />
+    <Parameter Name="SlikaThumb" Type="varbinary(max)" Mode="In" />
+    <Parameter Name="Status" Type="bit" Mode="In" />
+    <Parameter Name="SezonaID" Type="int" Mode="In" />
+    <Parameter Name="KorisnikID" Type="int" Mode="In" />
+    <Parameter Name="ModelID" Type="int" Mode="In" />
+  </Function>
+  <Function Name="usp_ProizvodiByModel" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="ModelID" Type="int" Mode="In" />
+  </Function>
+  <Function Name="usp_RevijeByKorisnik" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="KorisnikID" Type="int" Mode="In" />
+  </Function>
+  <Function Name="usp_RevijeByKorisnikLook" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="KorisnikID" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="PEPBazaModelStoreContainer">
+    <EntitySet Name="Dobavljaci" EntityType="Self.Dobavljaci" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Izlazi" EntityType="Self.Izlazi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IzlazStavke" EntityType="Self.IzlazStavke" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Korisnici" EntityType="Self.Korisnici" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kupci" EntityType="Self.Kupci" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LookBook" EntityType="Self.LookBook" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Modeli" EntityType="Self.Modeli" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ModelLookBook" EntityType="Self.ModelLookBook" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NarudzbaStavke" EntityType="Self.NarudzbaStavke" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Narudzbe" EntityType="Self.Narudzbe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ocjene" EntityType="Self.Ocjene" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Proizvodi" EntityType="Self.Proizvodi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Revije" EntityType="Self.Revije" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sezone" EntityType="Self.Sezone" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Skladista" EntityType="Self.Skladista" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ulazi" EntityType="Self.Ulazi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UlazStavke" EntityType="Self.UlazStavke" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Uloge" EntityType="Self.Uloge" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VrsteProizvoda" EntityType="Self.VrsteProizvoda" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Izlazi__Korisnik__2A4B4B5E" Association="Self.FK__Izlazi__Korisnik__2A4B4B5E">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="Izlazi" EntitySet="Izlazi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Izlazi__Narudzba__2B3F6F97" Association="Self.FK__Izlazi__Narudzba__2B3F6F97">
+      <End Role="Narudzbe" EntitySet="Narudzbe" />
+      <End Role="Izlazi" EntitySet="Izlazi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Izlazi__Skladist__2C3393D0" Association="Self.FK__Izlazi__Skladist__2C3393D0">
+      <End Role="Skladista" EntitySet="Skladista" />
+      <End Role="Izlazi" EntitySet="Izlazi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__IzlazStav__Izlaz__2F10007B" Association="Self.FK__IzlazStav__Izlaz__2F10007B">
+      <End Role="Izlazi" EntitySet="Izlazi" />
+      <End Role="IzlazStavke" EntitySet="IzlazStavke" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Korisnici__Uloga__2739D489" Association="Self.FK__Korisnici__Uloga__2739D489">
+      <End Role="Uloge" EntitySet="Uloge" />
+      <End Role="Korisnici" EntitySet="Korisnici" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LookBook__Korisn__681373AD" Association="Self.FK__LookBook__Korisn__681373AD">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="LookBook" EntitySet="LookBook" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Modeli__RevijaID__6442E2C9" Association="Self.FK__Modeli__RevijaID__6442E2C9">
+      <End Role="Revije" EntitySet="Revije" />
+      <End Role="Modeli" EntitySet="Modeli" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ModelLook__LookB__6BE40491" Association="Self.FK__ModelLook__LookB__6BE40491">
+      <End Role="LookBook" EntitySet="LookBook" />
+      <End Role="ModelLookBook" EntitySet="ModelLookBook" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ModelLook__Model__6AEFE058" Association="Self.FK__ModelLook__Model__6AEFE058">
+      <End Role="Modeli" EntitySet="Modeli" />
+      <End Role="ModelLookBook" EntitySet="ModelLookBook" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NarudzbaS__Narud__267ABA7A" Association="Self.FK__NarudzbaS__Narud__267ABA7A">
+      <End Role="Narudzbe" EntitySet="Narudzbe" />
+      <End Role="NarudzbaStavke" EntitySet="NarudzbaStavke" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NarudzbaS__Proiz__276EDEB3" Association="Self.FK__NarudzbaS__Proiz__276EDEB3">
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+      <End Role="NarudzbaStavke" EntitySet="NarudzbaStavke" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Narudzbe__KupacI__239E4DCF" Association="Self.FK__Narudzbe__KupacI__239E4DCF">
+      <End Role="Kupci" EntitySet="Kupci" />
+      <End Role="Narudzbe" EntitySet="Narudzbe" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ocjene__KupacID__32E0915F" Association="Self.FK__Ocjene__KupacID__32E0915F">
+      <End Role="Kupci" EntitySet="Kupci" />
+      <End Role="Ocjene" EntitySet="Ocjene" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ocjene__Proizvod__31EC6D26" Association="Self.FK__Ocjene__Proizvod__31EC6D26">
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+      <End Role="Ocjene" EntitySet="Ocjene" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Proizvodi__Koris__01142BA1" Association="Self.FK__Proizvodi__Koris__01142BA1">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Proizvodi__Model__14270015" Association="Self.FK__Proizvodi__Model__14270015">
+      <End Role="Modeli" EntitySet="Modeli" />
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Proizvodi__Sezon__6FE99F9F" Association="Self.FK__Proizvodi__Sezon__6FE99F9F">
+      <End Role="Sezone" EntitySet="Sezone" />
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Proizvodi__Vrsta__1BFD2C07" Association="Self.FK__Proizvodi__Vrsta__1BFD2C07">
+      <End Role="VrsteProizvoda" EntitySet="VrsteProizvoda" />
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Revije__Korisnik__03F0984C" Association="Self.FK__Revije__Korisnik__03F0984C">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="Revije" EntitySet="Revije" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ulazi__Dobavljac__3E52440B" Association="Self.FK__Ulazi__Dobavljac__3E52440B">
+      <End Role="Dobavljaci" EntitySet="Dobavljaci" />
+      <End Role="Ulazi" EntitySet="Ulazi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ulazi__KorisnikI__3D5E1FD2" Association="Self.FK__Ulazi__KorisnikI__3D5E1FD2">
+      <End Role="Korisnici" EntitySet="Korisnici" />
+      <End Role="Ulazi" EntitySet="Ulazi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ulazi__Skladiste__3C69FB99" Association="Self.FK__Ulazi__Skladiste__3C69FB99">
+      <End Role="Skladista" EntitySet="Skladista" />
+      <End Role="Ulazi" EntitySet="Ulazi" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UlazStavk__Proiz__4222D4EF" Association="Self.FK__UlazStavk__Proiz__4222D4EF">
+      <End Role="Proizvodi" EntitySet="Proizvodi" />
+      <End Role="UlazStavke" EntitySet="UlazStavke" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UlazStavk__UlazI__412EB0B6" Association="Self.FK__UlazStavk__UlazI__412EB0B6">
+      <End Role="Ulazi" EntitySet="Ulazi" />
+      <End Role="UlazStavke" EntitySet="UlazStavke" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

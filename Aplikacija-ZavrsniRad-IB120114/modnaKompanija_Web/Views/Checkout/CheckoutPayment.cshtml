@@ -1,0 +1,125 @@
+﻿@model modnaKompanija_Web.Controllers.CheckoutController.PaymentVM
+
+<!-- *** NAVBAR END *** -->
+
+    <div id="all">
+
+        <div id="content">
+            <div class="container">
+
+               
+
+              
+
+                <div class="col-md-9" id="checkout">
+
+                    <div class="box">
+                        <form method="post" action="/Checkout/PaymentSnimi">
+                            @*@using (Html.BeginForm("DeliverySnimi", "Checkout"))*@
+
+                            <h1>Proces naručivanja - Način plaćanja</h1>
+                            <br />
+                            <br />
+                            <ul class="nav nav-pills nav-justified">
+                                <li>
+                                    <a href="~/Checkout/CheckoutAddress"><i class="fa fa-map-marker"></i><br>Adresa dostave</a>
+                                </li>
+                                <li >
+                                    <a href="~/Checkout/CheckoutDelivery"><i class="fa fa-truck"></i><br>Način dostave</a>
+                                </li>
+                                <li class="active">
+                                    <a href="#"><i class="fa fa-money"></i><br>Način plaćanja</a>
+                                </li>
+                                <li class="disabled">
+                                    <a href="#"><i class="fa fa-eye"></i><br>Pregled narudžbe</a>
+                                </li>
+                            </ul>
+                            <br />
+                            <br />
+                            <div class="content">
+
+
+                                <div class="row">
+                                    @foreach (PEPmodnaKompanija_API.Models.NacinPlacanja x in Model.placanje)
+                                    {
+
+                                      
+
+
+    <div class="col-sm-6">
+        <div class="box shipping-method">
+
+            <h4>@x.Naziv</h4>
+
+            <p>@x.Opis</p>
+
+            <div class="box-footer text-center">
+
+               @Html.RadioButtonFor(y => y.selektovani, x.NacinPlacanjaID)
+            </div>
+        </div>
+    </div>
+                                    }
+
+                                   
+
+
+                                    </div>
+
+                                    <!-- /.row -->
+
+                                </div>
+                                <!-- /.content -->
+                                <br />
+                                <div class="box-footer">
+                                    <div class="pull-left">
+                                        <a href="~/Checkout/CheckoutDelivery" class="btn btn-default"><i class="fa fa-chevron-left"></i> Nazad na način dostave</a>
+
+
+                                    </div>
+                                    <div class="pull-right">
+                                        <button type="submit" class="btn btn-primary">
+                                           Pregled narudžbe <i class="fa fa-chevron-right"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                        </form>
+                    </div>
+                    <!-- /.box -->
+                    <!-- /.box -->
+                    
+
+                </div>
+                <!-- /.col-md-9 -->
+                <!-- /.col-md-3 -->
+                <div class="col-md-3">
+
+                    <div class="box" id="order-summary">
+                        <div class="box-header">
+                            <h3>Rezime narudžbe</h3>
+                        </div>
+                        <p class="text-muted">Troškovi dostave i dodatni trošovi su uračunati u cijenu proizvoda.</p>
+
+                        <div class="table-responsive">
+                            <table class="table">
+                                <tbody>
+                                    <tr class="total">
+                                        <td>Total</td>
+                                        <th>@Korpa.GetTotal() KM</th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+
+
+    </div>
+    <!-- /#all -->

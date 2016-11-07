@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\arza\desktop\dipl_novitemp\v15-novi temp -\pepmodnakompanija_mobile\obj\debug\intermediatexaml\pepmodnakompanija_mobile.exe" HashGuid="79e95a6b-0e97-f88c-d087-80f651496b9d" />
+    <ReferenceAssembly PathName="c:\users\arza\desktop\fit_zavrsnirad_ib120114\aplikacija-zavrsnirad-ib120114\packages\newtonsoft.json.6.0.2\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="9d7edd31-e823-430e-c3cf-22078730f8bb" />
+    <ReferenceAssembly PathName="c:\users\arza\desktop\fit_zavrsnirad_ib120114\aplikacija-zavrsnirad-ib120114\packages\pclcrypto.1.0.86\lib\wpa81\pclcrypto.dll" HashGuid="4950550c-470c-baad-713b-7ae278de2dda" />
+    <ReferenceAssembly PathName="c:\users\arza\desktop\fit_zavrsnirad_ib120114\aplikacija-zavrsnirad-ib120114\pepmodnakompanija_pcl\bin\debug\pepmodnakompanija_pcl.dll" HashGuid="e6caf744-c85c-6ff9-24b9-a8fc7c7ade9c" />
+    <ReferenceAssembly PathName="c:\users\arza\desktop\fit_zavrsnirad_ib120114\aplikacija-zavrsnirad-ib120114\packages\shim.1.0.2.50909\lib\portable-win81+wpa81\shim.dll" HashGuid="4425f35b-3b9a-ddf8-6833-da18c81e150a" />
+    <ReferenceAssembly PathName="c:\users\arza\desktop\fit_zavrsnirad_ib120114\aplikacija-zavrsnirad-ib120114\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.extensions.dll" HashGuid="1d9d21be-6daa-468f-1b93-4e738d786e1b" />
+    <ReferenceAssembly PathName="c:\users\arza\desktop\fit_zavrsnirad_ib120114\aplikacija-zavrsnirad-ib120114\packages\microsoft.aspnet.webapi.client.5.2.0\lib\portable-wp8+netcore45+net45+wp81+wpa81\system.net.http.formatting.dll" HashGuid="be2a4785-9a6a-e28d-8cef-3eb295a45d5a" />
+    <ReferenceAssembly PathName="c:\users\arza\desktop\fit_zavrsnirad_ib120114\aplikacija-zavrsnirad-ib120114\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\arza\desktop\fit_zavrsnirad_ib120114\aplikacija-zavrsnirad-ib120114\packages\validation.2.0.6.15003\lib\portable-net40+sl50+win+wpa81+wp80+xamarin.ios10+monoandroid10+monotouch10\validation.dll" HashGuid="a4c645ba-18b8-51d8-02bb-17b100c8260e" />
+    <ReferenceAssembly PathName="c:\users\arza\desktop\fit_zavrsnirad_ib120114\aplikacija-zavrsnirad-ib120114\packages\webapirestservice.webapiclient.1.1\lib\portable-net45+win+wpa81+wp80\webapirestservice.webapiclient.dll" HashGuid="61f0686c-adbf-7f03-6087-d67b60a4f166" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

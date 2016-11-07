@@ -1,0 +1,155 @@
+﻿@model modnaKompanija_Web.Controllers.CheckoutController.ReviewVM
+
+
+    <div id="all">
+
+        <div id="content">
+            <div class="container">
+
+
+
+                <div class="col-md-9" id="checkout">
+
+                    <div class="box">
+                        <form method="post" action="/Checkout/PaymentSnimi">
+                            @*@using (Html.BeginForm("DeliverySnimi", "Checkout"))*@
+
+                            <h1>Proces naručivanja - Pregled narudžbe</h1>
+                            <br />
+                            <br />
+                            <ul class="nav nav-pills nav-justified">
+                                <li>
+                                    <a href="~/Checkout/CheckoutAddress"><i class="fa fa-map-marker"></i><br>Adresa dostave</a>
+                                </li>
+                                <li>
+                                    <a href="~/Checkout/CheckoutDelivery"><i class="fa fa-truck"></i><br>Način dostave</a>
+                                </li>
+                                <li>
+                                    <a href="~/Checkout/CheckoutPayment"><i class="fa fa-money"></i><br>Način plaćanja</a>
+                                </li>
+                                <li class="active">
+                                    <a href="#"><i class="fa fa-eye"></i><br>Pregled narudžbe</a>
+                                </li>
+                            </ul>
+                            <br />
+                            <br />
+                            <div class="content">
+                                
+                                <div class="table-responsive">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th colspan="2">Proizvod</th>
+                                                <th>Količina</th>
+                                                <th>Cijena proizvoda</th>
+                                                <th>Ukupna cijena</th>
+
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+                                            @foreach (PEPmodnaKompanija_API.Models.NarudzbaStavke item in Model.aktivnaNarudzba.NarudzbaStavke)
+                                            {
+                                                <tr>
+                                                    <td>
+                                                        @if (item.Proizvodi.Slika != null)
+                                                        {
+                                                            string imageBase64 = Convert.ToBase64String(@item.Proizvodi.Slika);
+                                                            string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+                                                            <img src="@imageSrc" height="50" width="50"  alt="@item.Proizvodi.Naziv" />
+                                                        }
+                                                        
+                                                    </td>
+                                                  @foreach (var z in Model.velicina)
+                                                  {
+                                                      if (z.VelicinaID == item.Proizvodi.VelicinaID)
+                                                      {
+                                                  
+                                                        <td>@item.Proizvodi.Naziv (vel. @z.Naziv)</td>
+
+                                                 
+                                                      }
+                                                  }
+                                                    <td>@item.Kolicina</td>
+                                                    <td>@item.Proizvodi.Cijena KM</td>
+                                                    
+                                                    <td>@(item.Proizvodi.Cijena*item.Kolicina) KM</td>
+                                                </tr>
+
+                                            }
+                                         
+                                        </tbody>
+                                        <tfoot>
+                                            <tr>
+                                                <th colspan="4">Total</th>
+                                                <th>@Korpa.GetTotal() KM</th>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+
+                                </div>
+                                <!-- /.table-responsive -->
+
+
+
+
+
+                            </div>
+                            <!-- /.content -->
+                            <br />
+                            <div class="box-footer">
+                                <div class="pull-left">
+                                    <a href="~/Checkout/CheckoutPayment" class="btn btn-default"><i class="fa fa-chevron-left"></i> Nazad na način plačanja</a>
+
+
+                                </div>
+                                <div class="pull-right">
+                                    @*<button type="submit" class="btn btn-primary">
+                                        Zaključi narudžbu
+                                    </button>*@
+                                    <a href="~/Korpa/Zakljuci" class="btn btn-danger"> Zaključi narudžbu</a>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                    <!-- /.box -->
+                    <!-- /.box -->
+
+
+                </div>
+                <!-- /.col-md-9 -->
+                <!-- /.col-md-3 -->
+
+                <div class="col-md-3">
+
+                    <div class="box" id="order-summary">
+                        <div class="box-header">
+                            <h3>Rezime narudžbe</h3>
+                        </div>
+                        <p class="text-muted">Troškovi dostave i dodatni trošovi su uračunati u cijenu proizvoda.</p>
+
+                        <div class="table-responsive">
+                            <table class="table">
+                                <tbody>
+                                    <tr class="total">
+                                        <td>Total</td>
+                                        <th>@Korpa.GetTotal() KM</th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+
+    </div>
+    <!-- /#all -->
+

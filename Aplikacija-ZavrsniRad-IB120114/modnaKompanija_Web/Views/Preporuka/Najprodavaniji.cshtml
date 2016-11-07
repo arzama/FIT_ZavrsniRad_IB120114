@@ -1,0 +1,49 @@
+﻿@model  modnaKompanija_Web.Controllers.PreporukaController.NajprodavanijiVM
+
+<div class="product-slider">
+
+    @foreach (PEPmodnaKompanija_API.Models.usp_Select_NajprodavanijiProizvodi_Result item in Model.najprodavaniji)
+    {
+        foreach (PEPmodnaKompanija_API.Models.Proizvodi x in Model.sviProizvodi)
+        {
+            if (item.ProizvodID == x.ProizvodID)
+            {
+
+                <div class="item">
+@if (@x.Slika != null)
+                                        {
+                                            string imageBase64 = Convert.ToBase64String(@x.Slika);
+                                            string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+                    <div class="product">
+
+                        <div class="flip-container">
+                            <div class="flipper">
+                                <div class="front">
+                                    <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">
+                                        <img src="@imageSrc" alt="" class="img-responsive">
+                                    </a>
+                                </div>
+                                <div class="back">
+                                    <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">
+                                        <img src="@imageSrc" alt="" class="img-responsive">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })" class="invisible">
+                            <img src="@imageSrc" alt="" class="img-responsive">
+                        </a>
+                        <div class="text">
+                            <h3><a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">@item.Naziv</a></h3>
+                            <p class="price">@item.Cijena KM</p>
+                        </div>
+                        <!-- /.text -->
+                        
+                    </div>
+}
+
+                </div>
+            }
+        }
+    }
+</div>

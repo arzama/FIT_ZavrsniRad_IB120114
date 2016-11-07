@@ -1,0 +1,218 @@
+﻿
+@model modnaKompanija_Web.Controllers.CheckoutController.AddressVM
+
+
+    <div id="all">
+
+        <div id="content">
+            <div class="container">
+               
+
+                @*<div class="col-md-3 cart-total">
+
+                    <div class="box-header">
+                        <h3>Rezime narudžbe</h3>
+                    </div>
+                    <div class="price-details">
+
+                        <div class="clearfix"></div>
+                    </div>
+                    <ul class="total_price">
+                        <li class="last_price"> <h4>TOTAL <h5>(@Korpa.GetCount() proizvoda)</h5></h4></li>
+                        <li class="last_price"><span>@Korpa.GetTotal() KM</span></li>
+                        <div class="clearfix"> </div>
+                    </ul>
+
+
+                    <div class="clearfix"></div>
+
+
+                </div>*@
+
+
+
+                <div class="col-md-9" id="checkout">
+
+                    <div class="box">
+
+                        @using (Html.BeginForm("AddressSnimi", "Checkout"))
+                        {
+                            @Html.HiddenFor(model => model.AdresaDostaveID)
+
+
+
+                            <h1>Proces naručivanja - Adresa dostave</h1>
+                            <br />
+                            <br />
+                            <ul class="nav nav-pills nav-justified">
+                                <li class="active">
+                                    <a href="#"><i class="fa fa-map-marker"></i><br>Adresa dostave</a>
+                                </li>
+                                <li class="disabled">
+                                    <a href="#"><i class="fa fa-truck"></i><br>Način dostave</a>
+                                </li>
+                                <li class="disabled">
+                                    <a href="#"><i class="fa fa-money"></i><br>Način plaćanja</a>
+                                </li>
+                                <li class="disabled">
+                                    <a href="#"><i class="fa fa-eye"></i><br>Pregled narudžbe</a>
+                                </li>
+                            </ul>
+                            <br />
+                            <br />
+                            <div class="content">
+
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label for="ime">Ime</label>
+                                            @Html.TextBoxFor(model => model.Ime, new { @class = "form-control" })
+                                            <span class="field-validation-valid text-danger" data-valmsg-for="Ime" data-valmsg-replace="true">
+                                                @Html.ValidationMessageFor(model => model.Ime)
+
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label for="prezime">Prezime</label>
+                                            @Html.TextBoxFor(model => model.Prezime, new { @class = "form-control" })
+                                            <span class="field-validation-valid text-danger" data-valmsg-for="Prezime" data-valmsg-replace="true">
+                                                @Html.ValidationMessageFor(model => model.Prezime)
+
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /.row -->
+
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label for="drzava">Država</label>
+                                            @Html.TextBoxFor(model => model.Drzava, new { @class = "form-control" })
+                                            <span class="field-validation-valid text-danger" data-valmsg-for="Drzava" data-valmsg-replace="true">
+                                                @Html.ValidationMessageFor(model => model.Drzava)
+
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label for="ulica">Ulica</label>
+                                            @Html.TextBoxFor(model => model.Ulica, new { @class = "form-control" })
+                                            <span class="field-validation-valid text-danger" data-valmsg-for="Ulica" data-valmsg-replace="true">
+                                                @Html.ValidationMessageFor(model => model.Ulica)
+
+
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /.row -->
+
+                                <div class="row">
+                                    <div class="col-sm-6 col-md-3">
+                                        <div class="form-group">
+                                            <label for="telefon">Telefon</label>
+                                            @Html.TextBoxFor(model => model.Telefon, new { @class = "form-control" })
+                                            <span class="field-validation-valid text-danger" data-valmsg-for="Telefon" data-valmsg-replace="true">
+                                                @Html.ValidationMessageFor(model => model.Telefon)
+
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-3">
+                                        <div class="form-group">
+                                            <label for="postanskiBroj">Poštanski broj</label>
+                                            @Html.TextBoxFor(model => model.PostanskiBroj, new { @class = "form-control" })
+                                            <span class="field-validation-valid text-danger" data-valmsg-replace="true" data-valmsg-for="postanskiBroj"> @Html.ValidationMessageFor(model => model.PostanskiBroj)</span>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label for="email">Email</label>
+                                            @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+                                            <span class="field-validation-valid text-danger" data-valmsg-replace="true" data-valmsg-for="Email">
+                                                @Html.ValidationMessageFor(model => model.Email)
+                                            </span>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- /.row -->
+                            </div>
+
+                            @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                            <br />
+
+
+                            <div class="box-footer">
+                                <div class="pull-left">
+                                    <a href="/Korpa/Index" class="btn btn-default"><i class="fa fa-chevron-left"></i> Nazad na korpu</a>
+                                </div>
+                                <div class="pull-right">
+                                    <button type="submit" class="btn btn-primary">
+                                        Odaberi način dostave<i class="fa fa-chevron-right"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        }
+                        @*</form>*@
+                    </div>
+                    <!-- /.box -->
+                </div>
+                
+                    <div class="col-md-3">
+
+                        <div class="box" id="order-summary">
+                            <div class="box-header">
+                                <h3>Rezime narudžbe</h3>
+                            </div>
+                            <p class="text-muted">Troškovi dostave i dodatni trošovi su uračunati u cijenu proizvoda.</p>
+
+                            <div class="table-responsive">
+                                <table class="table">
+                                    <tbody>
+                                        @*<tr>
+                                            <td>Order subtotal</td>
+                                            <th>$446.00</th>
+                                        </tr>
+                                        <tr>
+                                            <td>Shipping and handling</td>
+                                            <th>$10.00</th>
+                                        </tr>
+                                        <tr>
+                                            <td>Tax</td>
+                                            <th>$0.00</th>
+                                        </tr>*@
+                                        <tr class="total">
+                                            <td>Total</td>
+                                            <th>@Korpa.GetTotal() KM</th>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+                <!-- /.col-md-9 -->
+
+                <!-- /.col-md-3 -->
+
+            
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+    
+
+
+    </div>
+    <!-- /#all -->
+

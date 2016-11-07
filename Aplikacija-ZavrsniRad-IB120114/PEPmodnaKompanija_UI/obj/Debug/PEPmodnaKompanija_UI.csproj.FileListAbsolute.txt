@@ -1,0 +1,1270 @@
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\documents\visual studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Documents\Visual Studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Documents\Visual Studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Documents\Visual Studio 2013\Projects\PEPmodnaKompanija\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\PEP_Videi_MojProjekat\PEPmodnaKompanija-DoUnosaProivodaUradjeno\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\PeP_SeminarsiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\v2_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\v3_PEP_SeminarskiRad_IB120114\Aplikacija-IB120114\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v4-\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v5\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v6\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\verzije diplomskog\Aplikacija-v7\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V8-Novi temp\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V9-Novi temp - Lookbook\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V10-Novi temp - Katalog\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\SearchSortPaging\V12-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledKreacija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V14-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.frm_Statistika_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.frm_Statistika_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledKreacija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V15-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.frm_Statistika_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledKreacija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_Report.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V16-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_KolicinaProdanih_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.frm_Statistika_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledKreacija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_KolicinaProdanih_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_Report.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V17-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.frm_Statistika_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledKreacija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_KolicinaProdanih_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_Report.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V18-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.frm_Statistika_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledKreacija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_KolicinaProdanih_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_Report.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V19-Novi temp -\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.frm_Statistika_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledKreacija.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_KolicinaProdanih_rpt.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_Report.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\Dipl_NoviTemp\V20-Novi temp\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.frm_Statistika_rpt.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledKreacija.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_KolicinaProdanih_rpt.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_Report.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\IB120114_ZavrsniRad\IB120114-ZavrsniRad-Aplikacije\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe.config
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.exe
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_UI.pdb
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\PEPmodnaKompanija_API.pdb
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\EntityFramework.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Optimization.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.Razor.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csprojResolveAssemblyReference.cache
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.frmKorisnici.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.LoginForm.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.MainForm.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddForm.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddLookBook.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddRevija.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.AddStavkeModela.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.frm_Statistika_rpt.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.MainDizajneri.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledKreacija.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLooka.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.PregledLookBooka.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SveRevije.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.ModulDizajner.SviModeli.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.AktivneNarudzbe.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Detalji.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.Račun.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Narudzbe.HistorijaNrudzbi.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Poruke.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddForm.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.AddKatalog.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_KolicinaProdanih_rpt.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_Report.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.frm_SlikaProizvoda.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PregledKataloga.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.PretragaProizvoda.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.Skladistenje.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Products.StatistikaFrm.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Properties.Resources.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AddForm.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.Users.AdministracijaKorisnika.resources
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\PEPmodnaKompanija_UI.csproj.GenerateResource.Cache
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.cache
+C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_UI\obj\Debug\RdlCompile.compiled

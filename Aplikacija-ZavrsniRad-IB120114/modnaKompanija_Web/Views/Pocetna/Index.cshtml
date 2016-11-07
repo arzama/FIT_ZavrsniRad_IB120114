@@ -1,0 +1,114 @@
+﻿
+<div id="all">
+
+    <div id="content">
+
+        <div class="container">
+            <div class="col-md-12">
+                <div id="main-slider">
+                 
+                    <div class="item">
+                        <img class="img-responsive" src="~/Template3/img/womman33.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="~/Template3/img/man.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="~/Template3/img/kids3.jpg" alt="">
+                    </a>
+                </div>
+                <!-- /#main-slider -->
+            </div>
+        </div>
+            </div>
+        <!-- *** ADVANTAGES HOMEPAGE ***
+        _________________________________________________________ -->
+        <div id="advantages">
+
+            <div class="container">
+                <div class="same-height-row">
+                    <div class="col-sm-4">
+                        <div class="box same-height clickable">
+                            <div class="icon">
+                                <i class="fa fa-heart"></i>
+                            </div>
+
+                            <h3><a href="#">Ljubazno osoblje</a></h3>
+                            <p>Nudimo najbolje usluge.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="box same-height clickable">
+                            <div class="icon">
+                                <i class="fa fa-tags"></i>
+                            </div>
+
+                            <h3><a href="#">Najbolje cijene</a></h3>
+                            <p>Najveći izbor-najbolje cijene.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="box same-height clickable">
+                            <div class="icon">
+                                <i class="fa fa-thumbs-up"></i>
+                            </div>
+
+                            <h3><a href="#">100% zadovoljstvo zagarantovano</a></h3>
+                            <p>Besplatan povrat i za 3 mjeseca.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+
+        </div>
+        <!-- /#advantages -->
+        <!-- *** ADVANTAGES END *** -->
+        <!-- *** HOT PRODUCT SLIDESHOW ***
+        _________________________________________________________ -->
+        <div id="hot">
+
+            <div class="box">
+                <div class="container">
+                    <div class="col-md-12">
+                        <h2>Najprodavaniji proizvodi</h2>
+                    </div>
+                </div>
+            </div>
+          
+            <div class="container">
+
+                @Html.Action("GetNajprodavanije","Preporuka")
+      @*@Html.Partial("_Najprodavaniji")*@
+
+                </div>
+                <!-- /.product-slider -->
+
+
+        </div>
+        <!-- /#hot -->
+        <!-- *** HOT END *** -->
+        <!-- *** GET INSPIRED ***
+        _________________________________________________________ -->
+        <div class="container" data-animate="fadeInUpBig">
+            <div class="col-md-12">
+                <div class="box slideshow">
+                    <h3>Nedostaje vam inspiracije ?</h3>
+                    <p class="lead">Neka vaša inspiracija budu svjetski poznati dizajneri !</p>
+                    <div id="get-inspired" class="owl-carousel owl-theme">
+                        @Html.Action("ZaPocetnu", "Lookbook")
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- *** GET INSPIRED END *** -->
+    
+
+
+    </div>
+    <!-- /#content -->
+</div>

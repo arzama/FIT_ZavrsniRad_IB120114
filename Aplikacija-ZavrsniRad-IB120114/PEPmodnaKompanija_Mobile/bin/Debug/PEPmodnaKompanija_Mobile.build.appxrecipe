@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ARZA-PC</Machine>
+    <WindowsUser>Arza</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>412e5b34-3498-4378-ae8d-4c5eebad1dc9</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\PEPmodnaKompanija_Mobile.exe">
+      <PackagePath>PEPmodnaKompanija_Mobile.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\PEPmodnaKompanija_Mobile.exe.config">
+      <PackagePath>PEPmodnaKompanija_Mobile.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\packages\Newtonsoft.Json.6.0.2\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\packages\PCLCrypto.1.0.86\lib\wpa81\PCLCrypto.dll">
+      <PackagePath>PCLCrypto.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_PCL\bin\Debug\PEPmodnaKompanija_PCL.dll">
+      <PackagePath>PEPmodnaKompanija_PCL.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\packages\shim.1.0.2.50909\lib\portable-win81+wpa81\Shim.dll">
+      <PackagePath>Shim.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\packages\Microsoft.Net.Http.2.2.22\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\packages\Microsoft.AspNet.WebApi.Client.5.2.0\lib\portable-wp8+netcore45+net45+wp81+wpa81\System.Net.Http.Formatting.dll">
+      <PackagePath>System.Net.Http.Formatting.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\packages\Microsoft.Net.Http.2.2.22\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\packages\Validation.2.0.6.15003\lib\portable-net40+sl50+win+wpa81+wp80+Xamarin.iOS10+MonoAndroid10+MonoTouch10\Validation.dll">
+      <PackagePath>Validation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\packages\WebApiRestService.WebApiClient.1.1\lib\portable-net45+win+wpa81+wp80\WebApiRestService.WebApiClient.dll">
+      <PackagePath>WebApiRestService.WebApiClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Assets\add-to-cart-light.png">
+      <PackagePath>Assets\add-to-cart-light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Assets\images.png">
+      <PackagePath>Assets\images.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Assets\trashh.png">
+      <PackagePath>Assets\trashh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Images\star_empty.png">
+      <PackagePath>Images\star_empty.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Images\star_full.png">
+      <PackagePath>Images\star_full.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Assets\add-to-cart.jpg">
+      <PackagePath>Assets\add-to-cart.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\Images\back_crna.jpg">
+      <PackagePath>Images\back_crna.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\FavouriteAlbum\Pregled.xbf">
+      <PackagePath>FavouriteAlbum\Pregled.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Katalog\Lista.xbf">
+      <PackagePath>Katalog\Lista.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Login.xbf">
+      <PackagePath>Login.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Lookbooks\DetaljiModela.xbf">
+      <PackagePath>Lookbooks\DetaljiModela.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Lookbooks\PregledModela.xbf">
+      <PackagePath>Lookbooks\PregledModela.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Products\Detalji.xbf">
+      <PackagePath>Products\Detalji.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Products\Search.xbf">
+      <PackagePath>Products\Search.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Profil\AktivneNarudzbe.xbf">
+      <PackagePath>Profil\AktivneNarudzbe.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Profil\DetaljiNarucivanja.xbf">
+      <PackagePath>Profil\DetaljiNarucivanja.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Profil\ListaNarudzbaStavke.xbf">
+      <PackagePath>Profil\ListaNarudzbaStavke.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Profil\ListaNarudzbi.xbf">
+      <PackagePath>Profil\ListaNarudzbi.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Profil\UrediProfil.xbf">
+      <PackagePath>Profil\UrediProfil.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\Registracija.xbf">
+      <PackagePath>Registracija.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\PEPmodnaKompanija_Mobile.xr.xml">
+      <PackagePath>PEPmodnaKompanija_Mobile.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arza\Desktop\FIT_ZavrsniRad_IB120114\Aplikacija-ZavrsniRad-IB120114\PEPmodnaKompanija_Mobile\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

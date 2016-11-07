@@ -1,0 +1,51 @@
+﻿@model modnaKompanija_Web.Controllers.PreporukaController.UserBasedVM
+
+@if (Model.preporuceni.Count()>0) { 
+<div class="col-md-3 col-sm-6">
+    <div class="box same-height">
+        <h3>Kupci koji su kupili ovaj proizvod su također kupili </h3>
+    </div>
+</div>
+
+
+
+foreach (PEPmodnaKompanija_API.Models.usp_UserBased_Preporuka_Result item in Model.preporuceni) { 
+    foreach (PEPmodnaKompanija_API.Models.Proizvodi x in Model.sviProizvodi) {
+        if (item.ProizvodID == x.ProizvodID) { 
+        if (@x.Slika != null)
+  {
+      string imageBase64 = Convert.ToBase64String(@x.Slika);
+      string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+
+<div class="col-md-3 col-sm-6">
+    <div class="product same-height">
+        <div class="flip-container">
+            <div class="flipper">
+                <div class="front">
+                    <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">
+                        <img src="@imageSrc" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="back">
+                    <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })">
+                        <img src="@imageSrc" alt="" class="img-responsive">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = x.ProizvodID })" class="invisible">
+            <img src="@imageSrc" alt="" class="img-responsive">
+        </a>
+        <div class="text">
+            <h3>@x.Naziv</h3>
+            <p class="price">@x.Cijena</p>
+        </div>
+    </div>
+    <!-- /.product -->
+</div>
+}
+}
+} 
+
+}
+}

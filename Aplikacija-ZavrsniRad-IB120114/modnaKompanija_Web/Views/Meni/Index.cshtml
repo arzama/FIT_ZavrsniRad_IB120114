@@ -1,0 +1,33 @@
+﻿@using modnaKompanija_Web
+
+<br />
+<a href="/Login" class="btn btn-default btn-lg">
+    <span class=" glyphicon glyphicon-off" aria-hidden="true">
+    </span>
+    Logout
+</a>
+<h3>Kupac @GlobalHelp.prijavljeniKupac.Ime</h3>
+<table class="table table-striped">
+    <thead>
+        <tr>
+
+            <th>Naziv</th>
+
+
+
+
+        </tr>
+    </thead>
+
+    @*@foreach (PEPmodnaKompanija_API.Models.Korisnici x in Model)
+    {
+
+        <tr>
+
+            <td>@x.Ime</td>
+
+
+
+        </tr>
+    }*@
+</table>

@@ -1,0 +1,100 @@
+﻿@model  modnaKompanija_Web.Controllers.HistorijaNarudzbiController.IndexVM
+
+    <div id="all">
+
+        <div id="content">
+            <div class="container">
+
+                
+
+                <div class="col-md-3">
+                    <!-- *** CUSTOMER MENU ***
+                    _________________________________________________________ -->
+                    <div class="panel panel-default sidebar-menu">
+
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Profil</h3>
+                        </div>
+
+                        <div class="panel-body">
+
+                            <ul class="nav nav-pills nav-stacked">
+                                <li class="active">
+                                    <a href="~/HistorijaNarudzbi/Index"><i class="fa fa-list"></i> Historija narudžbi</a>
+                                </li>
+                                <li>
+                                    <a href="~/Wishlist/Index"><i class="fa fa-heart"></i>Lista želja</a>
+                                </li>
+                                <li>
+                                    <a href="~/Profil/Index"><i class="fa fa-user"></i> Uredi profil</a>
+                                </li>
+                                <li>
+                                    <a href="~/Login/Logout"><i class="fa fa-sign-out"></i> Logout</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                    </div>
+                    <!-- /.col-md-3 -->
+                    <!-- *** CUSTOMER MENU END *** -->
+                </div>
+
+                <div class="col-md-9" id="customer-orders">
+                    <div class="box">
+                        <h1>Moje narudžbe</h1>
+
+                        <p class="lead">Sve narudžbe na jednom mjestu.</p>
+                        <p class="text-muted">Ako imate pitanja, <a href="/Kontakt/Index">kontaktirajte nas</a>,naš servisni centar radi za vas 24/7.</p>
+
+                        <hr>
+
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Narudžba</th>
+                                        <th>Datum</th>
+                                        <th>Ukupno</th>
+                                        <th>Status</th>
+                                        <th>Akcija</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var x in Model.narudzbe) { 
+                                    <tr>
+                                        <th># @x.BrojNarudzbe</th>
+                                        <td>@x.Datum.ToString("dd/MM/yyy")</td>
+                                        <td>@Korpa.Total(x.NarudzbaID) KM</td>
+                                        @if (x.Status == false) { 
+                                        <td>
+                                            <span class="label label-success">Uspješno procesirana</span>
+                                        </td>
+                                        }
+                                        else
+                                        {
+                                            <td>
+                                                <span class="label label-warning">Procesira se</span>
+                                            </td>
+                                        }
+                                        <td>@Html.ActionLink("Detalji", "Stavke", new { narudzbaID = @x.NarudzbaID }, new { @class = "btn btn-primary btn-sm" })</td>
+                                          
+                                        
+                                    </tr>
+                                    }
+                                   
+                                   
+                                    
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- /.container -->
+        </div>
+        </div>
+        <!-- /#content -->
+        <!-- *** FOOTER ***
+       
+    <!-- /#all -->

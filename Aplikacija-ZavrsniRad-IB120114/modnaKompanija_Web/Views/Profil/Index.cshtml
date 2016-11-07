@@ -1,0 +1,177 @@
+﻿@model  modnaKompanija_Web.Controllers.ProfilController.ProfilVM
+
+    <div id="all">
+
+        <div id="content">
+            <div class="container">
+
+
+
+                <div class="col-md-3">
+                    <!-- *** CUSTOMER MENU ***
+                    _________________________________________________________ -->
+                    <div class="panel panel-default sidebar-menu">
+
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Profil</h3>
+                        </div>
+
+                        <div class="panel-body">
+
+                            <ul class="nav nav-pills nav-stacked">
+                                <li class="active">
+                                    <a href="~/HistorijaNarudzbi/Index"><i class="fa fa-list"></i> Historija narudžbi</a>
+                                </li>
+                                <li>
+                                    <a href="~/Wishlist/Index"><i class="fa fa-heart"></i>Lista želja</a>
+                                </li>
+                                <li>
+                                    <a href="~/Profil/Index"><i class="fa fa-user"></i> Uredi profil</a>
+                                </li>
+                                <li>
+                                    <a href="~/Login/Logout"><i class="fa fa-sign-out"></i> Logout</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                    </div>
+                    <!-- /.col-md-3 -->
+                    <!-- *** CUSTOMER MENU END *** -->
+                </div>
+
+                <div class="col-md-9">
+                    <div class="box">
+
+                        <h1>Moj profil</h1>
+                        <p class="lead">Možete promijeniti svoje lične podatke ili lozinku.</p>
+                       
+                        <h3>Promjena lozinke</h3>
+
+   
+    @using (Html.BeginForm("LozinkaSnimi", "Profil"))
+    {
+        @Html.HiddenFor(model => model.KupacID)
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label for="password_old">Stara lozinka</label>
+                    @Html.TextBoxFor(model => model.StaraLozinka, new { @class = "form-control" })
+                    <span class="field-validation-valid text-danger" data-valmsg-for="StaraLozinka" data-valmsg-replace="true">
+                        @Html.ValidationMessageFor(model => model.StaraLozinka)
+
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label for="password_1">Nova lozinka</label>
+                    @Html.TextBoxFor(model => model.Lozinka, new { @class = "form-control" })
+                    <span class="field-validation-valid text-danger" data-valmsg-for="Lozinka" data-valmsg-replace="true">
+                        @Html.ValidationMessageFor(model => model.Lozinka)
+
+                    </span>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label for="password_2">Ponovo unesite novu lozinku</label>
+                    @Html.TextBoxFor(model => model.PotvrdnaLozinka, new { @class = "form-control" })
+                    <span class="field-validation-valid text-danger" data-valmsg-for="PotvrdnaLozinka" data-valmsg-replace="true">
+                        @Html.ValidationMessageFor(model => model.PotvrdnaLozinka)
+
+                    </span>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+    <p>
+        @if (ViewBag.Uspjesno == 1)
+        {
+
+            <div class="alert alert-danger alert-dismissable">
+                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+              Niste uspjeli promijeniti lozinku. Pokušajte ponovo.
+
+            </div>
+        }
+    </p>
+        <div class="col-sm-12 text-center">
+            <button type="submit" class="btn btn-primary"><i class="fa fa-save"></i> Sačuvaj novu lozinku</button>
+        </div>
+    }
+                        <hr>
+
+                        <h3>Lični podaci</h3>
+                      @using (Html.BeginForm("ProfilSnimi", "Profil"))
+                      {
+                            @Html.HiddenFor(model => model.KupacID)
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label for="Ime">Ime</label>
+                                        @Html.TextBoxFor(model => model.Ime, new { @class = "form-control" })
+                                        <span class="field-validation-valid text-danger" data-valmsg-for="Ime" data-valmsg-replace="true">
+                                            @Html.ValidationMessageFor(model => model.Ime)
+
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label for="Prezime">Prezime</label>
+                                        @Html.TextBoxFor(model => model.Prezime, new { @class = "form-control" })
+                                        <span class="field-validation-valid text-danger" data-valmsg-for="Prezime" data-valmsg-replace="true">
+                                            @Html.ValidationMessageFor(model => model.Prezime)
+
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.row -->
+
+            
+
+                            <div class="row">
+                            
+                          
+                             
+
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label for="KorisnickoIme">Korisnicko ime</label>
+                                        @Html.TextBoxFor(model => model.KorisnickoIme, new { @class = "form-control" })
+                                        <span class="field-validation-valid text-danger" data-valmsg-replace="true" data-valmsg-for="KorisnickoIme">
+                                            @Html.ValidationMessageFor(model => model.KorisnickoIme)
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label for="Email">Email</label>
+                                        @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+                                        <span class="field-validation-valid text-danger" data-valmsg-replace="true" data-valmsg-for="Email">
+                                            @Html.ValidationMessageFor(model => model.Email)
+                                        </span>
+                                    </div>
+                                </div>
+                               
+                                <div class="col-sm-12 text-center">
+                                    <button type="submit" class="btn btn-primary"><i class="fa fa-save"></i> Sačuvaj promjene</button>
+
+                                </div>
+                            </div>
+                      }
+                    </div>
+                </div>
+
+            </div>
+            <!-- /.container -->
+        </div>
+    </div>
+    <!-- /#content -->
+    <!-- *** FOOTER ***
+
+    <!-- /#all -->
+

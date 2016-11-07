@@ -1,0 +1,102 @@
+﻿@model  modnaKompanija_Web.Controllers.LookbookController.StavkeVM
+@{
+
+    Layout = null;
+
+}
+
+    <div class="col-md-12">
+        
+
+        <div class="row products">
+
+            @foreach (PEPmodnaKompanija_API.Models.ModeliProizvodi x in Model.modeliProizvodi)
+            {
+
+
+
+                foreach (PEPmodnaKompanija_API.Models.Proizvodi k in Model.proizvodi)
+                {
+                    if (k.ProizvodID == x.ProizvodID)
+                    {
+                       
+
+                         
+                                if (k.Slika != null)
+                                {
+                                string imageBase64 = Convert.ToBase64String(@k.Slika);
+                                string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+
+                                <div class="col-md-4">
+                                    <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = k.ProizvodID })" class="text-center">
+                                        <img src="@imageSrc" class="img-circle img-responsive" alt="">
+                                    </a>
+
+                                    <div class="text-center">
+                                   
+                                        <h3><p class="price">@k.Cijena KM</p></h3>
+ 
+                                    </div>
+
+
+                                </div>
+
+                                }
+      
+                    }
+                }
+            }
+
+
+
+        </div>
+
+                            </div>
+
+
+@*<div class="col-md-3 col-sm-4">
+
+        <div class="product">
+            @if (k.Slika != null)
+            {
+                string imageBase64 = Convert.ToBase64String(@k.Slika);
+                string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+
+
+
+                <div class="flip-container">
+
+
+
+                    <div class="flipper">
+                        <div class="front">
+                            <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = k.ProizvodID })">
+                                <img src="@imageSrc" alt="" class="img-responsive">
+                            </a>
+                        </div>
+                        <div class="back">
+                            <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = k.ProizvodID })">
+                                <img src="@imageSrc" alt="" class="img-responsive">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <a href="detail.html" class="invisible">
+                    <img src="@imageSrc" alt="" class="img-responsive">
+                </a>
+
+                <div class="text">
+                    <h3><a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = k.ProizvodID })">@k.Naziv</a></h3>
+                    <p class="price">@k.Cijena KM</p>
+                    <p class="buttons">
+                        <a href="@Url.Action("Index", "DetaljiProizvoda", new { proizvodID = k.ProizvodID })" class="btn btn-primary">Detalji</a>
+
+                    </p>
+                </div>
+
+            }
+
+        </div>
+
+    </div>*@

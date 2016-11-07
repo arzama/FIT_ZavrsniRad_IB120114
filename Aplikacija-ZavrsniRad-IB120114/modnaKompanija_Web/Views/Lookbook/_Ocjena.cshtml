@@ -1,0 +1,231 @@
+﻿@model  modnaKompanija_Web.Controllers.LookbookController.IndexVM
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<div id="ocjena">
+    <p class="text-center">Prosječna ocjena dizajnera: @GlobalHelp.prosjecnaOcjenaDizajnera(Model.dizajner.KorisnikID)  </p>
+    @if (GlobalHelp.prijavljeniKupac != null && GlobalHelp.GetOcjenaDizajnera(@Model.dizajner.KorisnikID) != 0)
+    {
+
+
+        <div class="text-center buttons">
+            <div class="stars" style="padding:20px">
+              
+
+                @if (GlobalHelp.GetOcjenaDizajnera(@Model.dizajner.KorisnikID) == 1)
+                {
+                    <input class="star star-5" id="star-5" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-5" for="star-5" ></label>
+                    <input class="star star-4" id="star-4" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-4" for="star-4"></label>
+                    <input class="star star-3" id="star-3" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-3" for="star-3"></label>
+                    <input class="star star-2" id="star-2" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-2" for="star-2"></label>
+                     <input class="star star-1" id="star-1" type="radio" name="star" checked="checked" disabled="disabled" />
+                    <label class="star star-1" for="star-1"></label>
+                }
+                @if (GlobalHelp.GetOcjenaDizajnera(@Model.dizajner.KorisnikID) == 2)
+                {
+                    <input class="star star-5" id="star-5" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-5" for="star-5"></label>
+                    <input class="star star-4" id="star-4" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-4" for="star-4"></label>
+                    <input class="star star-3" id="star-3" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-3" for="star-3"></label>
+    <input class="star star-2" id="star-2" type="radio" name="star" checked="checked" disabled="disabled" />
+                    <label class="star star-2" for="star-2"></label>
+                    <input class="star star-1" id="star-1" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-1" for="star-1"></label>
+                }
+                @if (GlobalHelp.GetOcjenaDizajnera(@Model.dizajner.KorisnikID) == 3)
+                {
+                    <input class="star star-5" id="star-5" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-5" for="star-5"></label>
+                    <input class="star star-4" id="star-4" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-4" for="star-4"></label>
+    <input class="star star-3" id="star-3" type="radio" name="star" checked="checked" disabled="disabled" />
+                    <label class="star star-3" for="star-3"></label>
+                    <input class="star star-2" id="star-2" type="radio" name="star"  disabled="disabled" />
+                    <label class="star star-2" for="star-2"></label>
+                    <input class="star star-1" id="star-1" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-1" for="star-1"></label>
+                }
+                @if (GlobalHelp.GetOcjenaDizajnera(@Model.dizajner.KorisnikID) == 4)
+                {
+                    <input class="star star-5" id="star-5" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-5" for="star-5"></label>
+    <input class="star star-4" id="star-4" type="radio" name="star" checked="checked"  disabled="disabled" />
+                    <label class="star star-4" for="star-4"></label>
+                    <input class="star star-3" id="star-3" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-3" for="star-3"></label>
+                    <input class="star star-2" id="star-2" type="radio" name="star"  disabled="disabled" />
+                    <label class="star star-2" for="star-2"></label>
+                    <input class="star star-1" id="star-1" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-1" for="star-1"></label>
+                }
+                @if (GlobalHelp.GetOcjenaDizajnera(@Model.dizajner.KorisnikID) == 5)
+                {         <input class="star star-5" id="star-5" type="radio" name="star" checked="checked" disabled="disabled" />
+                    <label class="star star-5" for="star-5"></label>
+                    <input class="star star-4" id="star-4" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-4" for="star-4"></label>
+                    <input class="star star-3" id="star-3" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-3" for="star-3"></label>
+                    <input class="star star-2" id="star-2" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-2" for="star-2"></label>
+                    <input class="star star-1" id="star-1" type="radio" name="star" disabled="disabled" />
+                    <label class="star star-1" for="star-1"></label>
+                }
+
+
+            </div>
+        </div>
+    }
+
+
+
+
+
+    @if (GlobalHelp.prijavljeniKupac != null && GlobalHelp.GetOcjenaDizajnera(@Model.dizajner.KorisnikID) == 0)
+    {
+       
+
+
+        <p>
+            @if (ViewBag.Uspjesno == 7)
+            {
+
+                <div class="alert alert-danger alert-dismissable">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                    Da biste ocijenili morate odabrati zvjezdicu !
+
+                </div>
+            }
+        </p>
+        <p>
+            @if (ViewBag.Uspjesno == 6)
+            {
+
+                <div class="alert alert-success alert-dismissable">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                    Hvala Vam. Uspješno ste ocijenili dizajnera,
+
+                </div>
+            }
+        </p>
+
+        if (ViewBag.Uspjesno != 6)
+        {
+
+         
+            <div class="text-center buttons">
+                <div class="stars" style="padding:20px">
+                    <form action="/Lookbook/OcjenaDizajneraSnimi" method="post">
+                        @Html.HiddenFor(x => x.KorisnikID)
+                        <input class="star star-5" id="star-5" type="radio" name="OcjenaINT" onclick="updateDivs(@Model.KorisnikID,5)" />
+                        <label class="star star-5" for="star-5" title="Odlično !"></label>
+                        <input class="star star-4" id="star-4" type="radio" name="OcjenaINT" onclick="updateDivs(@Model.KorisnikID,4)" />
+                        <label class="star star-4" for="star-4" title="Vrlo dobro"></label>
+                        <input class="star star-3" id="star-3" type="radio" name="OcjenaINT" onclick="updateDivs(@Model.KorisnikID,3)" />
+                        <label class="star star-3" for="star-3" title="Dobro"></label>
+                        <input class="star star-2" id="star-2" type="radio" name="OcjenaINT" onclick="updateDivs(@Model.KorisnikID,2)" />
+                        <label class="star star-2" for="star-2" title="Loše"></label>
+                        <input class="star star-1" id="star-1" type="radio" name="OcjenaINT" onclick="updateDivs(@Model.KorisnikID,1)" />
+                        <label class="star star-1" for="star-1" title="Jako loše"></label>
+                    </form>
+                </div>
+            </div>
+        
+            <script type="text/javascript">
+
+                function updateDivs(data1, data2) {
+                 
+                    $.ajax({
+                        url: '/Lookbook/OcjenaDizajneraSnimi',
+                        data: { KorisnikID: data1, OcjenaINT: data2 }
+
+
+                    }).done(function () {
+
+                        $("#ocjena").load("@Url.Action("IndexW", "Lookbook", new { ok=6})");
+
+                    });
+
+
+                };
+
+
+
+            </script>
+
+
+
+
+
+
+
+
+
+
+
+
+        }
+
+
+
+
+    }
+</div>
+
+
+<style>
+    div.stars {
+        width: 200px;
+        display: inline-block;
+    }
+
+    input.star {
+        display: none;
+    }
+
+    label.star {
+        float: right;
+        padding: 0px 5px 0px 0px;
+        font-size: 27px;
+        color: #444;
+        transition: all .2s;
+    }
+
+    input.star:checked ~ label.star:before {
+        content: '\f005';
+        color: #FD4;
+        transition: all .25s;
+    }
+
+    input.star-5:checked ~ label.star:before {
+        color: #FE7;
+        text-shadow: 0 0 20px #952;
+    }
+
+    input.star-1:checked ~ label.star:before {
+        color: #F62;
+    }
+
+    label.star:hover {
+        transform: rotate(-15deg) scale(1.3);
+    }
+
+    label.star:before {
+        content: '\f006';
+        font-family: FontAwesome;
+    }
+</style>
+
+
+
+
+
+
+
+
+
+
+

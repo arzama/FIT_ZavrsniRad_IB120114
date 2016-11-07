@@ -1,0 +1,71 @@
+﻿@model  modnaKompanija_Web.Controllers.LookbookController.IndexVM
+
+
+<div id="all">
+
+    <div id="content">
+        <div class="container">
+
+            <div class="container" data-animate="fadeInUpBig">
+                <div class="col-md-12">
+                    <div class="box slideshow">
+
+
+                        <h3>Lookbook / @Model.lookbook.Naziv by @Model.dizajner.Ime @Model.dizajner.Prezime</h3>
+                        <p class="lead">@Model.lookbook.Datum.ToString("dd/MM/yyy")</p>
+                      
+
+
+                     @Html.Partial("_Ocjena")
+
+
+
+                        <div id="get-inspired" class="owl-carousel owl-theme">
+
+@foreach (PEPmodnaKompanija_API.Models.ModelLookBook x in Model.modeli)
+{
+
+
+    foreach (PEPmodnaKompanija_API.Models.Modeli k in Model.svimodeli)
+    {
+        if (k.ModelID == x.ModelID)
+        {
+           
+    <div class="item">
+@if (k.Slika != null)
+{
+    string imageBase64 = Convert.ToBase64String(@x.Modeli.Slika);
+    string imageSrc = string.Format("data:image/gif;base64,{0}", imageBase64);
+ 
+   
+  
+            <a href=" #stavke" class="scroll-to">
+                <img src="@imageSrc " alt=" get inspired" class="img-responsive">
+            </a>
+
+    <br />
+    @Html.Action("Stavke", "Lookbook", new { modelID = x.ModelID })
+
+}
+</div>
+        }
+        
+    }
+}                      
+                      
+                        </div>
+                    </div>
+                </div>
+                <div id="stavke">
+
+                </div>
+
+
+            </div>
+
+    
+
+
+            </div>
+    </div>
+</div>

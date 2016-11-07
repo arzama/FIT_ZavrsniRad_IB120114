@@ -1,0 +1,8 @@
+Login podaci za korisnike koji veæ postoje u bazi
+Web i mobilna aplikacija: 
+username: test  
+password: test
+
+Desktop aplikacija:
+Dizajner- username: arza123   password:arza123
+Adinistrator- username: lela  password: lela

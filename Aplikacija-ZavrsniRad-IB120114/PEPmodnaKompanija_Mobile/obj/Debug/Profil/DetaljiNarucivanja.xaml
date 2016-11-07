@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="PEPmodnaKompanija_Mobile.Profil.DetaljiNarucivanja"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PEPmodnaKompanija_Mobile.Profil"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <ScrollViewer  Height="Auto" >
+
+        <Grid>
+        <StackPanel VerticalAlignment="Center" Margin="30,0,30,0">
+                <TextBlock HorizontalAlignment="Center" Text="eModnaKompanija::Naručivanje" FontSize="20" Foreground="#FF24BBBB" ></TextBlock>
+            <TextBox Name="imeInput" Header="Ime:"></TextBox>
+            <TextBox Name="prezimeInput" Header="Prezime:"></TextBox>
+            <TextBox Name="emailInput" Header="E-mail:" InputScope="EmailSmtpAddress"></TextBox>
+            <TextBox Name="telefonInput" Header="Telefon:"></TextBox>
+            
+            <TextBox Name="postanskiInput" Header="Poštanski broj:"></TextBox>
+            <TextBox Name="ulicaInput" Header="Ulica:"></TextBox>
+            <TextBox Name="drzavaInput" Header="Država:"></TextBox>
+                <ComboBox  Name="dostavaList" PlaceholderText="Način dostave" Grid.Column="0"  Grid.Row="1" />
+            <ComboBox  Name="placanjeList" PlaceholderText="Način plaćanja" Grid.Column="0"  Grid.Row="1"  />
+
+            <Button x:ConnectionId='1' Name="zakljuciButton"                               Content="Zaključi narudžbu" HorizontalAlignment="Right"></Button>
+        </StackPanel>
+    </Grid>
+    </ScrollViewer>
+</Page>
+

@@ -1,0 +1,132 @@
+﻿@model modnaKompanija_Web.Controllers.LoginController.RegistracijaVM
+
+<div id="all">
+
+    <div id="content">
+  
+        <div class="container">
+
+            @if (ViewBag.Uspjesno == 9)
+            {
+                <div class="alert alert-danger alert-dismissable">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+
+                   Pogrešno korisničo ime ili lozinka.
+                </div>
+            }
+
+            @if (ViewBag.Uspjesno == 1)
+            {
+                <div class="alert alert-success alert-dismissable">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+
+                    Registracija je uspješno izvšena! Možete se logirati sa Vašim pristupnim podacima.
+                </div>
+            }
+
+            @if (ViewBag.Uspjesno == 2)
+            {
+                <div class="alert alert-danger alert-dismissable">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+
+                    Uneseno korisničko ime već postoji, pokušajte sa drugim !
+                </div>
+            }
+            <div class="col-md-12">
+
+
+            </div>
+          
+            <div class="col-md-6">
+               
+                <div class="box">
+                 
+
+                    <h1>Novi račun</h1>
+
+                    <p class="lead">Još uvijek niste naš registrovani kupac?</p>
+                    <p class="text-muted"> Proces registracije ne traje duže od minute!</p>
+                   
+                    <hr>
+
+                    @*<form action="/Login/Registracija" method="post">*@
+@using (Html.BeginForm("Registracija", "Login")) { 
+                        @Html.HiddenFor(model => model.Id)
+                        <div class="form-group">
+                            <label for="Ime">Ime</label>
+                         
+                            <input class="form-control text-box single-line" tabindex="1" required="" autofocus="" id="Ime" name="Ime" type="text" value="" " />
+                            <span class="field-validation-valid text-danger" data-valmsg-for="Ime" data-valmsg-replace="true"></span>
+
+                        </div>
+                        <div class="form-group">
+                            <label for="Prezime">Prezime</label>
+                            <input class="form-control text-box single-line" tabindex="2" required="" autofocus="" id="Prezime" name="Prezime" type="text" value="" " />
+                            <span class="field-validation-valid text-danger" data-valmsg-for="Prezime" data-valmsg-replace="true"></span>
+
+                        </div>
+                        <div class="form-group">
+                            <label for="Email">E-mail</label>
+                            <input class="form-control text-box single-line" tabindex="3" required="" autofocus="" id="Email" name="Email" type="email" value=""  />
+                            <span class="field-validation-valid text-danger" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+
+                        </div>
+                        <div class="form-group">
+                            <label for="KorisnickoIme">Korisničko ime</label>
+                            <input class="form-control text-box single-line" tabindex="4" required="" autofocus="" id="KorisnickoIme" name="KorisnickoIme" type="text" value="" />
+                            <span class="field-validation-valid text-danger" data-valmsg-for="KorisnickoIme" data-valmsg-replace="true"></span>
+
+                        </div>
+                        <div class="form-group">
+                            <label for="Lozinka">Lozinka</label>
+                            <input class="form-control text-box single-line" tabindex="5" required="" autofocus="" id="Lozinka" name="Lozinka" type="password" value="" />
+                            <span class="field-validation-valid text-danger" data-valmsg-for="Lozinka" data-valmsg-replace="true"></span>
+
+                        </div>
+
+
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary"><i class="fa fa-user-md"></i> Registruj se</button>
+                        </div>
+}
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="box">
+                    <h1>Prijava</h1>
+
+                    <p class="lead">Već ste naš kupac?</p>
+                    <p class="text-muted">
+                      Prijavite se da biste pristupili svom profilu.
+                    </p>
+
+                    <hr>
+                    
+                    @*<form action="/Login/Provjera" method="post">*@
+@using (Html.BeginForm("Provjera", "Login")) {
+                        <div class="form-group">
+                            <label for="username">Korisničko ime</label>
+                            <input class="form-control text-box single-line" tabindex="4" required="" autofocus="" id="username" name="username" type="text" value="" />
+                            <span class="field-validation-valid text-danger" data-valmsg-for="username" data-valmsg-replace="true"></span>
+
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Lozinka</label>
+                            <input class="form-control text-box single-line" tabindex="5" required="" autofocus="" id="password" name="password" type="password" value=""  />
+                            <span class="field-validation-valid text-danger" data-valmsg-for="password" data-valmsg-replace="true"></span>
+
+                        </div>
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary"><i class="fa fa-sign-in"></i> Prijavi se</button>
+                        </div>
+}
+                </div>
+            </div>
+
+
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /#content -->
+</div>
